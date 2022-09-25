@@ -1,0 +1,1 @@
+{"members":[{"name":"BehaviorArgument","tag":"EnumValue","value":0},{"name":"CustomValue","tag":"EnumValue","value":1},{"name":"CharacterRecord","tag":"EnumValue","value":2},{"name":"TweakDB","tag":"EnumValue","value":3},{"name":"ActionRecord","tag":"EnumValue","value":4},{"name":"Blackboard","tag":"EnumValue","value":5}],"name":"AIParameterizationType","tag":"Enum"}

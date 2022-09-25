@@ -1,0 +1,1 @@
+{"members":[{"name":"DoNotNotifyEntity","tag":"EnumValue","value":0},{"name":"SendThisEventToEntity","tag":"EnumValue","value":1},{"name":"SendPSChangedEventToEntity","tag":"EnumValue","value":2}],"name":"EntityNotificationType","tag":"Enum"}

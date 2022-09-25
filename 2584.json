@@ -1,0 +1,1 @@
+{"members":[{"name":"IdleMounted","tag":"EnumValue","value":0},{"name":"IdleStand","tag":"EnumValue","value":1},{"name":"CombatWindowed","tag":"EnumValue","value":2},{"name":"CombatSeated","tag":"EnumValue","value":3},{"name":"Turret","tag":"EnumValue","value":4},{"name":"GunnerSlot","tag":"EnumValue","value":5}],"name":"PuppetVehicleState","tag":"Enum"}

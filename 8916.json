@@ -1,0 +1,1 @@
+{"members":[{"name":"Setup","tag":"EnumValue","value":0},{"name":"Body","tag":"EnumValue","value":1},{"name":"Wrapup","tag":"EnumValue","value":2}],"name":"TestCasePhase","tag":"Enum"}

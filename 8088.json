@@ -1,0 +1,1 @@
+{"members":[{"name":"DEFAULT","tag":"EnumValue","value":0},{"name":"ON","tag":"EnumValue","value":1},{"name":"OFF","tag":"EnumValue","value":2},{"name":"INACTIVE","tag":"EnumValue","value":3},{"name":"ALLOWED","tag":"EnumValue","value":4},{"name":"LOCKED","tag":"EnumValue","value":5},{"name":"SEALED","tag":"EnumValue","value":6}],"name":"EWidgetState","tag":"Enum"}

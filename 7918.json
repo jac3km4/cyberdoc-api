@@ -1,0 +1,1 @@
+{"members":[{"name":"Add","tag":"EnumValue","value":0},{"name":"Set","tag":"EnumValue","value":1},{"name":"Invalid","tag":"EnumValue","value":2}],"name":"EVarDBMode","tag":"Enum"}

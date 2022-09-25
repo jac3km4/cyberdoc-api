@@ -1,0 +1,1 @@
+{"members":[{"name":"MAIN","tag":"EnumValue","value":0},{"name":"SYSTEM","tag":"EnumValue","value":1},{"name":"FILES","tag":"EnumValue","value":2},{"name":"MAILS","tag":"EnumValue","value":3},{"name":"NEWSFEED","tag":"EnumValue","value":4},{"name":"INTERNET","tag":"EnumValue","value":5},{"name":"INVALID","tag":"EnumValue","value":6}],"name":"EComputerMenuType","tag":"Enum"}

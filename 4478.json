@@ -1,0 +1,1 @@
+{"members":[{"name":"OK","tag":"EnumValue","value":0},{"name":"InvalidStartingPosition","tag":"EnumValue","value":1},{"name":"InvalidEndPosition","tag":"EnumValue","value":2},{"name":"OtherError","tag":"EnumValue","value":3}],"name":"worldNavigationRequestStatus","tag":"Enum"}

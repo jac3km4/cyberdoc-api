@@ -1,0 +1,1 @@
+{"members":[{"name":"OpenSubMenu","tag":"EnumValue","value":0},{"name":"QuickSave","tag":"EnumValue","value":1},{"name":"Save","tag":"EnumValue","value":2},{"name":"ExitGame","tag":"EnumValue","value":3},{"name":"ExitToMainMenu","tag":"EnumValue","value":4},{"name":"QuickLoad","tag":"EnumValue","value":5}],"name":"PauseMenuAction","tag":"Enum"}

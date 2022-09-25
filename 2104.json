@@ -1,0 +1,1 @@
+{"members":[{"name":"IN_PROGRESS","tag":"EnumValue","value":0},{"name":"SUCCESS","tag":"EnumValue","value":1},{"name":"FAILURE","tag":"EnumValue","value":2}],"name":"AIbehaviorUpdateOutcome","tag":"Enum"}

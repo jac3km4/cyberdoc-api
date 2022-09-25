@@ -1,0 +1,1 @@
+{"members":[{"name":"NoRain","tag":"EnumValue","value":0},{"name":"LightRain","tag":"EnumValue","value":1},{"name":"HeavyRain","tag":"EnumValue","value":2}],"name":"worldRainIntensity","tag":"Enum"}

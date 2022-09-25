@@ -1,0 +1,1 @@
+{"members":[{"name":"STATUS_INVALID","tag":"EnumValue","value":0},{"name":"STATUS_BOUND","tag":"EnumValue","value":1},{"name":"STATUS_READY","tag":"EnumValue","value":2},{"name":"STATUS_PROGRESS","tag":"EnumValue","value":3},{"name":"STATUS_COMPLETE","tag":"EnumValue","value":4},{"name":"STATUS_FAILURE","tag":"EnumValue","value":5}],"name":"gameEActionStatus","tag":"Enum"}

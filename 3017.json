@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Available","tag":"EnumValue","value":1},{"name":"Unavailable","tag":"EnumValue","value":2},{"name":"Inactive","tag":"EnumValue","value":3},{"name":"None","tag":"EnumValue","value":4}],"name":"EMappinVisualState","tag":"Enum"}

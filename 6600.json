@@ -1,0 +1,1 @@
+{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"UpperRight","tag":"EnumValue","value":1},{"name":"UpperLeft","tag":"EnumValue","value":2},{"name":"LowerLeft","tag":"EnumValue","value":3},{"name":"LowerRight","tag":"EnumValue","value":4},{"name":"Center","tag":"EnumValue","value":5}],"name":"PopupPosition","tag":"Enum"}

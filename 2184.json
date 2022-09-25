@@ -1,0 +1,1 @@
+{"members":[{"name":"Additive","tag":"EnumValue","value":0},{"name":"AdditiveMultiplier","tag":"EnumValue","value":1},{"name":"Multiplier","tag":"EnumValue","value":2},{"name":"Count","tag":"EnumValue","value":3},{"name":"Invalid","tag":"EnumValue","value":4}],"name":"gameStatModifierType","tag":"Enum"}

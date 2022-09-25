@@ -1,0 +1,1 @@
+{"members":[{"name":"OK","tag":"EnumValue","value":0},{"name":"Confirm","tag":"EnumValue","value":1},{"name":"Cancel","tag":"EnumValue","value":2},{"name":"ConfirmCancel","tag":"EnumValue","value":3},{"name":"YesNo","tag":"EnumValue","value":4}],"name":"GenericMessageNotificationType","tag":"Enum"}

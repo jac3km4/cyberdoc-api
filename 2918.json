@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"LeftSide","tag":"EnumValue","value":1},{"name":"RightSide","tag":"EnumValue","value":2},{"name":"Top","tag":"EnumValue","value":3},{"name":"Count","tag":"EnumValue","value":4}],"name":"gameGrenadeThrowStartType","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Spawn","tag":"EnumValue","value":0},{"name":"Despawn","tag":"EnumValue","value":1},{"name":"Death","tag":"EnumValue","value":2}],"name":"gameEntitySpawnerEventType","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Init","tag":"EnumValue","value":0},{"name":"Parabolic","tag":"EnumValue","value":1},{"name":"Follow","tag":"EnumValue","value":2},{"name":"Linear","tag":"EnumValue","value":3},{"name":"Miss","tag":"EnumValue","value":4}],"name":"ESmartBulletPhase","tag":"Enum"}

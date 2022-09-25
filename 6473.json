@@ -1,0 +1,1 @@
+{"members":[{"name":"Unknown","tag":"EnumValue","value":0},{"name":"PauseMenu","tag":"EnumValue","value":1},{"name":"HubMenu","tag":"EnumValue","value":2},{"name":"CustomMenu","tag":"EnumValue","value":3}],"name":"inkMenuMode","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Object","tag":"EnumValue","value":1},{"name":"Vehicle","tag":"EnumValue","value":2},{"name":"Puppet","tag":"EnumValue","value":3},{"name":"Platform","tag":"EnumValue","value":4}],"name":"gameMountingObjectType","tag":"Enum"}

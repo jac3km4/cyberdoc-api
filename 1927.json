@@ -1,0 +1,1 @@
+{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"Narrow","tag":"EnumValue","value":1},{"name":"Medium","tag":"EnumValue","value":2},{"name":"Huge","tag":"EnumValue","value":3}],"name":"AICombatSpaceSize","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":13373,"name":"MiniGame_SymbolsWithRarity_Record"},{"base":null,"index":10280,"name":"TweakDBRecord"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"MiniGame_AllSymbols_inline1_Record","tag":"Class","visibility":"public"}

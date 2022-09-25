@@ -1,0 +1,1 @@
+{"members":[{"name":"INCONCLUSIVE","tag":"EnumValue","value":0},{"name":"VIABLE","tag":"EnumValue","value":1},{"name":"NONVIABLE","tag":"EnumValue","value":2}],"name":"EViabilityDecision","tag":"Enum"}

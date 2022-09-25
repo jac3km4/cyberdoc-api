@@ -1,0 +1,1 @@
+{"members":[{"name":"PAID","tag":"EnumValue","value":0},{"name":"OVERDUE","tag":"EnumValue","value":1},{"name":"EVICTED","tag":"EnumValue","value":2}],"name":"ERentStatus","tag":"Enum"}

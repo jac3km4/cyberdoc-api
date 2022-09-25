@@ -1,0 +1,1 @@
+{"members":[{"name":"NONE","tag":"EnumValue","value":0},{"name":"INSPECTED","tag":"EnumValue","value":1},{"name":"NOT_INSPECTED","tag":"EnumValue","value":2}],"name":"EFocusClueInvestigationState","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"StepOut","tag":"EnumValue","value":0},{"name":"LeanOut","tag":"EnumValue","value":1},{"name":"StepUp","tag":"EnumValue","value":2},{"name":"LeanOver","tag":"EnumValue","value":3},{"name":"Undefined","tag":"EnumValue","value":4}],"name":"EAICoverAction","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Off","tag":"EnumValue","value":0},{"name":"DamageOnly","tag":"EnumValue","value":1},{"name":"On","tag":"EnumValue","value":2}],"name":"gameuiDamageIndicatorMode","tag":"Enum"}

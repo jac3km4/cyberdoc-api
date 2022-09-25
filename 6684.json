@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Public","tag":"EnumValue","value":1},{"name":"Safe","tag":"EnumValue","value":2},{"name":"Restricted","tag":"EnumValue","value":3},{"name":"Dangerous","tag":"EnumValue","value":4}],"name":"gamePSMZones","tag":"Enum"}

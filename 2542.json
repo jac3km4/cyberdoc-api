@@ -1,0 +1,1 @@
+{"members":[{"name":"Greater","tag":"EnumValue","value":0},{"name":"GreaterOrEqual","tag":"EnumValue","value":1},{"name":"Equal","tag":"EnumValue","value":2},{"name":"NotEqual","tag":"EnumValue","value":3},{"name":"Less","tag":"EnumValue","value":4},{"name":"LessOrEqual","tag":"EnumValue","value":5}],"name":"EComparisonType","tag":"Enum"}

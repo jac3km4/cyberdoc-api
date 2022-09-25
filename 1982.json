@@ -1,0 +1,1 @@
+{"members":[{"name":"left","tag":"EnumValue","value":0},{"name":"right","tag":"EnumValue","value":1},{"name":"up","tag":"EnumValue","value":2},{"name":"down","tag":"EnumValue","value":3},{"name":"front","tag":"EnumValue","value":4},{"name":"back","tag":"EnumValue","value":5}],"name":"EMovementDirection","tag":"Enum"}

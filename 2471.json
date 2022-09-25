@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Strength","tag":"EnumValue","value":1},{"name":"Reflexes","tag":"EnumValue","value":2},{"name":"Intelligence","tag":"EnumValue","value":3},{"name":"TechnicalAbility","tag":"EnumValue","value":4},{"name":"Cool","tag":"EnumValue","value":5}],"name":"EDeviceChallengeAttribute","tag":"Enum"}

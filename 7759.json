@@ -1,0 +1,1 @@
+{"members":[{"name":"Idle","tag":"EnumValue","value":0},{"name":"Charging","tag":"EnumValue","value":1},{"name":"Charged","tag":"EnumValue","value":2},{"name":"Overcharging","tag":"EnumValue","value":3},{"name":"Discharging","tag":"EnumValue","value":4}],"name":"gamedataChargeStep","tag":"Enum"}

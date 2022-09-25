@@ -1,0 +1,1 @@
+{"members":[{"name":"God_Immortal","tag":"EnumValue","value":0},{"name":"God_Invulnerable","tag":"EnumValue","value":1},{"name":"Resurrect","tag":"EnumValue","value":2},{"name":"IgnoreTimeDilation","tag":"EnumValue","value":3},{"name":"BypassMagazine","tag":"EnumValue","value":4},{"name":"InfiniteAmmo","tag":"EnumValue","value":5}],"name":"gamecheatsystemFlag","tag":"Enum"}

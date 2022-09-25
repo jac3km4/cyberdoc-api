@@ -1,0 +1,1 @@
+{"members":[{"name":"Unknown","tag":"EnumValue","value":0},{"name":"Friendly","tag":"EnumValue","value":1},{"name":"Neutral","tag":"EnumValue","value":2},{"name":"Hostile","tag":"EnumValue","value":3}],"name":"AITrackedStatusType","tag":"Enum"}

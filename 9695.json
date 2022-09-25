@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":9507,"name":"IGameSystem"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":true,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"IStatsDataSystem","tag":"Class","visibility":"public"}

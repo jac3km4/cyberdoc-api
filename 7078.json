@@ -1,0 +1,1 @@
+{"members":[{"name":"Gameplay","tag":"EnumValue","value":0},{"name":"ForceEnable","tag":"EnumValue","value":1},{"name":"ForceDisable","tag":"EnumValue","value":2}],"name":"vehicleQuestUIEnable","tag":"Enum"}

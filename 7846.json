@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Active","tag":"EnumValue","value":1},{"name":"Inactive","tag":"EnumValue","value":2},{"name":"Complete","tag":"EnumValue","value":3}],"name":"ProximityProgressBarState","tag":"Enum"}

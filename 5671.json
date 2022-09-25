@@ -1,0 +1,1 @@
+{"members":[{"name":"Follower","tag":"EnumValue","value":0},{"name":"Patrol","tag":"EnumValue","value":1},{"name":"Count","tag":"EnumValue","value":2},{"name":"Invalid","tag":"EnumValue","value":3}],"name":"gamedataAIRole","tag":"Enum"}

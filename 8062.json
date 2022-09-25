@@ -1,0 +1,1 @@
+{"members":[{"name":"THREAT","tag":"EnumValue","value":-1},{"name":"STREAMING","tag":"EnumValue","value":0},{"name":"WORKING","tag":"EnumValue","value":1}],"name":"ESurveillanceCameraStatus","tag":"Enum"}

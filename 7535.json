@@ -1,0 +1,1 @@
+{"members":[{"name":"MASTER","tag":"EnumValue","value":0},{"name":"SLAVE","tag":"EnumValue","value":1},{"name":"NONE","tag":"EnumValue","value":2}],"name":"ENetworkRelation","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"DefendAll","tag":"EnumValue","value":0},{"name":"DefendMelee","tag":"EnumValue","value":1},{"name":"DefendRanged","tag":"EnumValue","value":2},{"name":"NoDefend","tag":"EnumValue","value":3},{"name":"Count","tag":"EnumValue","value":4},{"name":"Invalid","tag":"EnumValue","value":5}],"name":"gamedataDefenseMode","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"ManualSave","tag":"EnumValue","value":0},{"name":"QuickSave","tag":"EnumValue","value":1},{"name":"AutoSave","tag":"EnumValue","value":2},{"name":"PointOfNoReturn","tag":"EnumValue","value":3},{"name":"EndGameSave","tag":"EnumValue","value":4}],"name":"inkSaveType","tag":"Enum"}

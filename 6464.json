@@ -1,0 +1,1 @@
+{"members":[{"name":"Success","tag":"EnumValue","value":0},{"name":"UnknownIconTweak","tag":"EnumValue","value":1},{"name":"AtlasResourceNotFound","tag":"EnumValue","value":2},{"name":"PartNotFoundInAtlas","tag":"EnumValue","value":3}],"name":"inkIconResult","tag":"Enum"}

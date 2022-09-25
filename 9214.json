@@ -1,0 +1,1 @@
+{"members":[{"name":"INVALID","tag":"EnumValue","value":0},{"name":"DPAD_UP","tag":"EnumValue","value":1},{"name":"DPAD_DOWN","tag":"EnumValue","value":2},{"name":"DPAD_RIGHT","tag":"EnumValue","value":3},{"name":"RB","tag":"EnumValue","value":4}],"name":"EHotkey","tag":"Enum"}

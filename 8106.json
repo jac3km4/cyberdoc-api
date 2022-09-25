@@ -1,0 +1,1 @@
+{"members":[{"name":"RECTANGLE","tag":"EnumValue","value":0},{"name":"ARROWLEFT","tag":"EnumValue","value":1},{"name":"ARROWRIGHT","tag":"EnumValue","value":2},{"name":"SQUARE","tag":"EnumValue","value":3}],"name":"SignShape","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Disabled","tag":"EnumValue","value":0},{"name":"Immediately","tag":"EnumValue","value":1},{"name":"ConfirmationRequired","tag":"EnumValue","value":2},{"name":"RestartRequired","tag":"EnumValue","value":3},{"name":"LoadLastCheckpointRequired","tag":"EnumValue","value":4}],"name":"ConfigVarUpdatePolicy","tag":"Enum"}

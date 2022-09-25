@@ -1,0 +1,1 @@
+{"members":[{"name":"Distract","tag":"EnumValue","value":0},{"name":"VisualDistract","tag":"EnumValue","value":1},{"name":"Explosion","tag":"EnumValue","value":2},{"name":"VentilationAreaEffect","tag":"EnumValue","value":3},{"name":"None","tag":"EnumValue","value":4}],"name":"DeviceStimType","tag":"Enum"}

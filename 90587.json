@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":27202,"name":"tickITimeDilationListener"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"TimeDilationListener","tag":"Class","visibility":"public"}

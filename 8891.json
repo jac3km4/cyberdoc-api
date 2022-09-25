@@ -1,0 +1,1 @@
+{"members":[{"name":"Unequipped","tag":"EnumValue","value":0},{"name":"Equipped","tag":"EnumValue","value":1},{"name":"Equipping","tag":"EnumValue","value":2},{"name":"Unequipping","tag":"EnumValue","value":3},{"name":"FirstEquip","tag":"EnumValue","value":4}],"name":"EEquipmentState","tag":"Enum"}

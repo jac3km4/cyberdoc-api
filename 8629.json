@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Damage","tag":"EnumValue","value":1},{"name":"ProjectedDamage","tag":"EnumValue","value":2},{"name":"All","tag":"EnumValue","value":3}],"name":"DMGPipelineType","tag":"Enum"}

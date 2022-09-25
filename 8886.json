@@ -1,0 +1,1 @@
+{"members":[{"name":"Ended","tag":"EnumValue","value":0},{"name":"Initializing","tag":"EnumValue","value":1},{"name":"Talking","tag":"EnumValue","value":2},{"name":"Rejected","tag":"EnumValue","value":3}],"name":"questPhoneTalkingState","tag":"Enum"}

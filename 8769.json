@@ -1,0 +1,1 @@
+{"members":[{"name":"QuickAction","tag":"EnumValue","value":0},{"name":"ChargeAction","tag":"EnumValue","value":1},{"name":"None","tag":"EnumValue","value":2}],"name":"EActionType","tag":"Enum"}

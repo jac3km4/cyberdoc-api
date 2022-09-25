@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"NoTrailZeros;Float","parameters":[{"isOptional":false,"isOut":false,"name":"f","tag":"Parameter","type":{"kind":"Prim","name":"Float","tag":"Type"}}],"returnType":{"kind":"Prim","name":"String","tag":"Type"},"source":"core/data/string.ws","tag":"Function","visibility":"public"}

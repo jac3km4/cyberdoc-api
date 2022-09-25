@@ -1,0 +1,1 @@
+{"members":[{"name":"Walk","tag":"EnumValue","value":0},{"name":"Run","tag":"EnumValue","value":1},{"name":"Sprint","tag":"EnumValue","value":2}],"name":"moveMovementType","tag":"Enum"}

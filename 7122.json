@@ -1,0 +1,1 @@
+{"members":[{"name":"NotLoaded","tag":"EnumValue","value":0},{"name":"InternalError","tag":"EnumValue","value":1},{"name":"FileIsMissing","tag":"EnumValue","value":2},{"name":"FileIsCorrupted","tag":"EnumValue","value":3},{"name":"Loaded","tag":"EnumValue","value":4},{"name":"ImportedFromOldVersion","tag":"EnumValue","value":5}],"name":"UserSettingsLoadStatus","tag":"Enum"}

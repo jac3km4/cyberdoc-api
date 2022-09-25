@@ -1,0 +1,1 @@
+{"members":[{"name":"Inactive","tag":"EnumValue","value":0},{"name":"DisplayingMessage","tag":"EnumValue","value":1},{"name":"IncomingCall","tag":"EnumValue","value":2},{"name":"Holocall","tag":"EnumValue","value":3},{"name":"Audiocall","tag":"EnumValue","value":4}],"name":"EHudPhoneFunction","tag":"Enum"}

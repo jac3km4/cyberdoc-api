@@ -1,0 +1,1 @@
+{"members":[{"name":"NONE","tag":"EnumValue","value":0},{"name":"TRIVIAL","tag":"EnumValue","value":1},{"name":"EASY","tag":"EnumValue","value":2},{"name":"MEDIUM","tag":"EnumValue","value":3},{"name":"HARD","tag":"EnumValue","value":4},{"name":"IMPOSSIBLE","tag":"EnumValue","value":5}],"name":"EGameplayChallengeLevel","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Add","tag":"EnumValue","value":1},{"name":"Subtract","tag":"EnumValue","value":2},{"name":"Multiply","tag":"EnumValue","value":3},{"name":"Divide","tag":"EnumValue","value":4}],"name":"EMathOperator","tag":"Enum"}

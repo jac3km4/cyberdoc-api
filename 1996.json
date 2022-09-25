@@ -1,0 +1,1 @@
+{"members":[{"name":"CLEAN","tag":"EnumValue","value":0},{"name":"COARSE","tag":"EnumValue","value":1},{"name":"HOLE","tag":"EnumValue","value":2}],"name":"gameDismWoundType","tag":"Enum"}

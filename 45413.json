@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"EMPTY_ENTITY_ID;","parameters":[],"returnType":{"index":10079,"kind":"Class","name":"EntityID","tag":"Type"},"source":"core/entity/entityID.ws","tag":"Function","visibility":"public"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"NoDraw","tag":"EnumValue","value":0},{"name":"Solid","tag":"EnumValue","value":1},{"name":"Wire","tag":"EnumValue","value":2}],"name":"inkBrushDrawType","tag":"Enum"}

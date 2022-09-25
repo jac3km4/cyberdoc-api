@@ -1,0 +1,1 @@
+{"members":[{"name":"Waiting","tag":"EnumValue","value":0},{"name":"Starting","tag":"EnumValue","value":1},{"name":"Lobby","tag":"EnumValue","value":2},{"name":"InGame","tag":"EnumValue","value":3},{"name":"Ending","tag":"EnumValue","value":4},{"name":"Victory","tag":"EnumValue","value":5},{"name":"Failure","tag":"EnumValue","value":6}],"name":"grsHeistStatus","tag":"Enum"}

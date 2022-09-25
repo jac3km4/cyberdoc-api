@@ -1,0 +1,1 @@
+{"members":[{"name":"AfterScan","tag":"EnumValue","value":0},{"name":"Always","tag":"EnumValue","value":1},{"name":"Default","tag":"EnumValue","value":2},{"name":"Never","tag":"EnumValue","value":3},{"name":"Count","tag":"EnumValue","value":4},{"name":"Invalid","tag":"EnumValue","value":5}],"name":"gamedataUINameplateDisplayType","tag":"Enum"}

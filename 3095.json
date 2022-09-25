@@ -1,0 +1,1 @@
+{"members":[{"name":"Chemical","tag":"EnumValue","value":0},{"name":"Electric","tag":"EnumValue","value":1},{"name":"Physical","tag":"EnumValue","value":2},{"name":"Thermal","tag":"EnumValue","value":3},{"name":"Count","tag":"EnumValue","value":4},{"name":"Invalid","tag":"EnumValue","value":5}],"name":"gamedataDamageType","tag":"Enum"}

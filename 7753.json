@@ -1,0 +1,1 @@
+{"members":[{"name":"Visible","tag":"EnumValue","value":0},{"name":"Targetable","tag":"EnumValue","value":1},{"name":"Locking","tag":"EnumValue","value":2},{"name":"Locked","tag":"EnumValue","value":3},{"name":"Unlocking","tag":"EnumValue","value":4}],"name":"gamesmartGunTargetState","tag":"Enum"}

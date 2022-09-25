@@ -1,0 +1,1 @@
+{"members":[{"name":"VeryLow","tag":"EnumValue","value":0},{"name":"Low","tag":"EnumValue","value":1},{"name":"Medium","tag":"EnumValue","value":2},{"name":"High","tag":"EnumValue","value":3},{"name":"VeryHigh","tag":"EnumValue","value":4},{"name":"Absolute","tag":"EnumValue","value":5}],"name":"EPriority","tag":"Enum"}

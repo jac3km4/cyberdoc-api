@@ -1,0 +1,1 @@
+{"members":[{"name":"NONE","tag":"EnumValue","value":-1},{"name":"TECHIE","tag":"EnumValue","value":0},{"name":"NETRUNNER","tag":"EnumValue","value":1},{"name":"TECHIE_AND_NETRUNNER","tag":"EnumValue","value":2}],"name":"EPlaystyleType","tag":"Enum"}

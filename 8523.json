@@ -1,0 +1,1 @@
+{"members":[{"name":"AIGEF_Undefined","tag":"EnumValue","value":0},{"name":"AIGEF_OverridesSelf","tag":"EnumValue","value":1},{"name":"AIGEF_InterruptsSamePriorityTask","tag":"EnumValue","value":2},{"name":"AIGEF_InterruptsForcedBehavior","tag":"EnumValue","value":3},{"name":"AIGEF_AcceptsAdditives","tag":"EnumValue","value":4}],"name":"EAIGateEventFlags","tag":"Enum"}

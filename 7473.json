@@ -1,0 +1,1 @@
+{"members":[{"name":"NotFetched","tag":"EnumValue","value":0},{"name":"FetchedSuccessfully","tag":"EnumValue","value":1},{"name":"CloudSavesDisabled","tag":"EnumValue","value":2},{"name":"NotLoggedIn","tag":"EnumValue","value":3},{"name":"FetchFailed","tag":"EnumValue","value":4}],"name":"CloudSavesQueryStatus","tag":"Enum"}

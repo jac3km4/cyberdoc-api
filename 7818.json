@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"DEFAULT","tag":"EnumValue","value":1},{"name":"STARTED","tag":"EnumValue","value":2},{"name":"COMPLETED","tag":"EnumValue","value":3},{"name":"ABORTED","tag":"EnumValue","value":4}],"name":"EUIActionState","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Corporation","tag":"EnumValue","value":0},{"name":"Street","tag":"EnumValue","value":1},{"name":"Count","tag":"EnumValue","value":2},{"name":"Invalid","tag":"EnumValue","value":3}],"name":"gamedataWeaponManufacturer","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"STARTED","tag":"EnumValue","value":0},{"name":"CONTINUE","tag":"EnumValue","value":1},{"name":"STOPPED","tag":"EnumValue","value":2}],"name":"ERevealState","tag":"Enum"}

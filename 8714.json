@@ -1,0 +1,1 @@
+{"members":[{"name":"UNDEFINED","tag":"EnumValue","value":0},{"name":"TRESSPASSING","tag":"EnumValue","value":1},{"name":"ILLEGAL_ACTIONS","tag":"EnumValue","value":2},{"name":"COMBAT","tag":"EnumValue","value":3}],"name":"EAllowedTo","tag":"Enum"}

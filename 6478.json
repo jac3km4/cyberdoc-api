@@ -1,0 +1,1 @@
+{"members":[{"name":"OriginalCase","tag":"EnumValue","value":0},{"name":"UpperCase","tag":"EnumValue","value":1},{"name":"LowerCase","tag":"EnumValue","value":2}],"name":"textLetterCase","tag":"Enum"}

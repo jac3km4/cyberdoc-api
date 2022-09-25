@@ -1,0 +1,1 @@
+{"members":[{"name":"Available","tag":"EnumValue","value":0},{"name":"Locked","tag":"EnumValue","value":1},{"name":"Disabled","tag":"EnumValue","value":2},{"name":"QuestLocked","tag":"EnumValue","value":3},{"name":"Reserved","tag":"EnumValue","value":4}],"name":"VehicleDoorInteractionState","tag":"Enum"}

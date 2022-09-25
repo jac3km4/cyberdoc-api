@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"GetPSGeneratorVersion;","parameters":[],"returnType":{"kind":"Prim","name":"Int32","tag":"Type"},"source":"core/systems/varDBSystem.script","tag":"Function","visibility":"public"}

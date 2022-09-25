@@ -1,0 +1,1 @@
+{"members":[{"name":"Door","tag":"EnumValue","value":0},{"name":"Ladder","tag":"EnumValue","value":1},{"name":"Floor","tag":"EnumValue","value":2},{"name":"Jump","tag":"EnumValue","value":3},{"name":"Elevator","tag":"EnumValue","value":4}],"name":"worldOffMeshConnectionType","tag":"Enum"}

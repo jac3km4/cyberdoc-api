@@ -1,0 +1,1 @@
+{"members":[{"name":"START","tag":"EnumValue","value":0},{"name":"STOP","tag":"EnumValue","value":1},{"name":"BRAKE_LOOP","tag":"EnumValue","value":2}],"name":"EEffectOperationType","tag":"Enum"}

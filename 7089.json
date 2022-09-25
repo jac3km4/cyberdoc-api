@@ -1,0 +1,1 @@
+{"members":[{"name":"PreRaceSetup","tag":"EnumValue","value":0},{"name":"CountdownStart","tag":"EnumValue","value":1},{"name":"RaceStart","tag":"EnumValue","value":2},{"name":"RaceEnd","tag":"EnumValue","value":3},{"name":"Disable","tag":"EnumValue","value":4}],"name":"vehicleRaceUI","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Ungrouped","tag":"EnumValue","value":0},{"name":"Grouped","tag":"EnumValue","value":1},{"name":"GroupedCollection","tag":"EnumValue","value":2},{"name":"GroupedHidden","tag":"EnumValue","value":3}],"name":"gameuiMappinGroupState","tag":"Enum"}

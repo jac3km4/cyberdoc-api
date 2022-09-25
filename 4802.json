@@ -1,0 +1,1 @@
+{"members":[{"name":"Easy","tag":"EnumValue","value":0},{"name":"Hard","tag":"EnumValue","value":1},{"name":"VeryHard","tag":"EnumValue","value":2},{"name":"Story","tag":"EnumValue","value":3}],"name":"gameDifficulty","tag":"Enum"}

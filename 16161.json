@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":false,"isFinal":false,"isNative":true,"isStatic":true,"name":"Cast;Int32;Float","parameters":[{"isOptional":false,"isOut":false,"name":"a","tag":"Parameter","type":{"kind":"Prim","name":"Int32","tag":"Type"}}],"returnType":{"kind":"Prim","name":"Float","tag":"Type"},"source":null,"tag":"Function","visibility":"public"}

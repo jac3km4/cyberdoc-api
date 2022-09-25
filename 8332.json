@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"IsReckless","tag":"EnumValue","value":1},{"name":"IsAggressive","tag":"EnumValue","value":2},{"name":"IsBalanced","tag":"EnumValue","value":3},{"name":"IsDefensive","tag":"EnumValue","value":4},{"name":"IsCautious","tag":"EnumValue","value":5}],"name":"EAICombatPreset","tag":"Enum"}

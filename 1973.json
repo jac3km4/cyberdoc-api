@@ -1,0 +1,1 @@
+{"members":[{"name":"Relaxed","tag":"EnumValue","value":0},{"name":"Stressed","tag":"EnumValue","value":1},{"name":"Alarmed","tag":"EnumValue","value":2},{"name":"Panic","tag":"EnumValue","value":3}],"name":"gameFearStage","tag":"Enum"}

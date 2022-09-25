@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Low","tag":"EnumValue","value":1},{"name":"Medium","tag":"EnumValue","value":2},{"name":"Height","tag":"EnumValue","value":3}],"name":"EGenericNotificationPriority","tag":"Enum"}

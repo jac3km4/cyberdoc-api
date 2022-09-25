@@ -1,0 +1,1 @@
+{"members":[{"name":"Temporary","tag":"EnumValue","value":0},{"name":"Permanent","tag":"EnumValue","value":1},{"name":"Conditional","tag":"EnumValue","value":2}],"name":"gamestateMachineParameterAspect","tag":"Enum"}

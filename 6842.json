@@ -1,0 +1,1 @@
+{"members":[{"name":"Alive","tag":"EnumValue","value":0},{"name":"Dead","tag":"EnumValue","value":1},{"name":"Resurrecting","tag":"EnumValue","value":2}],"name":"gamePSMVitals","tag":"Enum"}

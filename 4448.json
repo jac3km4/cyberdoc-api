@@ -1,0 +1,1 @@
+{"members":[{"name":"NoEventFlags","tag":"EnumValue","value":0},{"name":"SloMoOnly","tag":"EnumValue","value":1},{"name":"Music","tag":"EnumValue","value":2},{"name":"Metadata","tag":"EnumValue","value":3},{"name":"Unique","tag":"EnumValue","value":4}],"name":"audioAudioEventFlags","tag":"Enum"}

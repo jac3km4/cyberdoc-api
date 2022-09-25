@@ -1,0 +1,1 @@
+{"members":[{"name":"Safe","tag":"EnumValue","value":0},{"name":"Active","tag":"EnumValue","value":1},{"name":"Off","tag":"EnumValue","value":2},{"name":"On","tag":"EnumValue","value":3}],"name":"EPreventionSystemInstruction","tag":"Enum"}

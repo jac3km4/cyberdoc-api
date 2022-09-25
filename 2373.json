@@ -1,0 +1,1 @@
+{"members":[{"name":"Stand","tag":"EnumValue","value":0},{"name":"Crouch","tag":"EnumValue","value":1},{"name":"Kneel","tag":"EnumValue","value":2},{"name":"Cover","tag":"EnumValue","value":3},{"name":"Swim","tag":"EnumValue","value":4},{"name":"Crawl","tag":"EnumValue","value":5}],"name":"animStanceState","tag":"Enum"}

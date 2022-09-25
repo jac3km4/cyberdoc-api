@@ -1,0 +1,1 @@
+{"members":[{"name":"DEFAULT","tag":"EnumValue","value":0},{"name":"FOCUS","tag":"EnumValue","value":1},{"name":"LOOKEDAT","tag":"EnumValue","value":2}],"name":"HUDContext","tag":"Enum"}

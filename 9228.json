@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Enter","tag":"EnumValue","value":1},{"name":"Default","tag":"EnumValue","value":2},{"name":"CameraReset","tag":"EnumValue","value":3},{"name":"Exit","tag":"EnumValue","value":4}],"name":"LadderCameraParams","tag":"Enum"}

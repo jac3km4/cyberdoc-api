@@ -1,0 +1,1 @@
+{"members":[{"name":"Up","tag":"EnumValue","value":0},{"name":"Right","tag":"EnumValue","value":1},{"name":"Down","tag":"EnumValue","value":2},{"name":"Left","tag":"EnumValue","value":3}],"name":"inkDiscreteNavigationDirection","tag":"Enum"}

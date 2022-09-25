@@ -1,0 +1,1 @@
+{"members":[{"name":"OnlySideA","tag":"EnumValue","value":0},{"name":"OnlySideB","tag":"EnumValue","value":1},{"name":"AnySide","tag":"EnumValue","value":2}],"name":"ESecurityGateEntranceType","tag":"Enum"}

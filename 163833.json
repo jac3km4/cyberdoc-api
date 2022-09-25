@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":true,"isFinal":false,"isNative":false,"isStatic":true,"name":"LogGender","parameters":[{"isOptional":false,"isOut":false,"name":"gameInstance","tag":"Parameter","type":{"index":9528,"kind":"Class","name":"GameInstance","tag":"Type"}}],"returnType":null,"source":"cyberpunk/puppet/scriptedPuppet.script","tag":"Function","visibility":"public"}

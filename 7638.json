@@ -1,0 +1,1 @@
+{"members":[{"name":"Invisible","tag":"EnumValue","value":0},{"name":"Showing","tag":"EnumValue","value":1},{"name":"Visible","tag":"EnumValue","value":2},{"name":"Hiding","tag":"EnumValue","value":3}],"name":"EHudPhoneVisibility","tag":"Enum"}

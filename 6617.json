@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Forward","tag":"EnumValue","value":1},{"name":"Right","tag":"EnumValue","value":2},{"name":"Left","tag":"EnumValue","value":3},{"name":"Back","tag":"EnumValue","value":4}],"name":"EDodgeMovementInput","tag":"Enum"}

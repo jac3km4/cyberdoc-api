@@ -1,0 +1,1 @@
+{"members":[{"name":"GLOBAL","tag":"EnumValue","value":0},{"name":"AREA_WHERE_PLAYER_IS","tag":"EnumValue","value":1},{"name":"SPECIFIC_AGENTS_ONLY","tag":"EnumValue","value":2}],"name":"SecurityEventScopeSettings","tag":"Enum"}

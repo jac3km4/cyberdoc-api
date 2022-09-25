@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Fading","tag":"EnumValue","value":1},{"name":"HeadlineSelection","tag":"EnumValue","value":2},{"name":"CPO_Mode","tag":"EnumValue","value":3}],"name":"EVisualizerDefinitionFlags","tag":"Enum"}

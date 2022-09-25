@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Default","tag":"EnumValue","value":1},{"name":"EnteringCover","tag":"EnumValue","value":2},{"name":"LeavingCover","tag":"EnumValue","value":3},{"name":"Count","tag":"EnumValue","value":4}],"name":"AIUninterruptibleActionType","tag":"Enum"}

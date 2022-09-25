@@ -1,0 +1,1 @@
+{"members":[{"name":"INTERRUPTION_SUCCESS","tag":"EnumValue","value":0},{"name":"INTERRUPTION_DELAYED","tag":"EnumValue","value":1},{"name":"INTERRUPTION_FAILED","tag":"EnumValue","value":2}],"name":"AIEInterruptionOutcome","tag":"Enum"}

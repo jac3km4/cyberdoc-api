@@ -1,0 +1,1 @@
+{"members":[{"name":"ESL_NONE","tag":"EnumValue","value":0},{"name":"ESL_LOCAL","tag":"EnumValue","value":1},{"name":"ESL_0","tag":"EnumValue","value":2},{"name":"ESL_1","tag":"EnumValue","value":3},{"name":"ESL_2","tag":"EnumValue","value":4},{"name":"ESL_3","tag":"EnumValue","value":5},{"name":"ESL_4","tag":"EnumValue","value":6}],"name":"ESecurityAccessLevel","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"GrantAccess","tag":"EnumValue","value":0},{"name":"BlockAccess","tag":"EnumValue","value":1},{"name":"UnlockQuestFact","tag":"EnumValue","value":2}],"name":"ProgramEffect","tag":"Enum"}

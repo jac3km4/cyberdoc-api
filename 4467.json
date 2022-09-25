@@ -1,0 +1,1 @@
+{"members":[{"name":"OnPlayerDriving","tag":"EnumValue","value":0},{"name":"OnPlayerPassenger","tag":"EnumValue","value":1},{"name":"OnPlayerEnterCombat","tag":"EnumValue","value":2},{"name":"OnPlayerExitCombat","tag":"EnumValue","value":3},{"name":"OnPlayerExitVehicle","tag":"EnumValue","value":4}],"name":"vehicleAudioEventAction","tag":"Enum"}

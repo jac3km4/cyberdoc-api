@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":-1},{"name":"Direct","tag":"EnumValue","value":0},{"name":"QHack","tag":"EnumValue","value":1},{"name":"Master","tag":"EnumValue","value":2},{"name":"Spiderbot","tag":"EnumValue","value":3}],"name":"EActionContext","tag":"Enum"}

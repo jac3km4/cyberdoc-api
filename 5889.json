@@ -1,0 +1,1 @@
+{"members":[{"name":"NOT_ACTIVE","tag":"EnumValue","value":0},{"name":"ACTIVE","tag":"EnumValue","value":1},{"name":"COLLECTED","tag":"EnumValue","value":2}],"name":"DropPointPackageStatus","tag":"Enum"}

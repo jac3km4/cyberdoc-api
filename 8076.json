@@ -1,0 +1,1 @@
+{"members":[{"name":"Screen_21x9","tag":"EnumValue","value":0},{"name":"Screen_9x21","tag":"EnumValue","value":1},{"name":"Screen_9x16","tag":"EnumValue","value":2},{"name":"Screen_3x4","tag":"EnumValue","value":3},{"name":"Screen_4x3","tag":"EnumValue","value":4},{"name":"Screen_1x1","tag":"EnumValue","value":5}],"name":"EScreenRatio","tag":"Enum"}

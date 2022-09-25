@@ -1,0 +1,1 @@
+{"members":[{"name":"window_f","tag":"EnumValue","value":0},{"name":"window_fl","tag":"EnumValue","value":1},{"name":"window_fr","tag":"EnumValue","value":2},{"name":"window_bl","tag":"EnumValue","value":3},{"name":"window_br","tag":"EnumValue","value":4},{"name":"window_b","tag":"EnumValue","value":5}],"name":"vehicleQuestWindowDestruction","tag":"Enum"}

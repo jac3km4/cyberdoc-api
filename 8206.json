@@ -1,0 +1,1 @@
+{"members":[{"name":"SLIDING_HORIZONTALLY","tag":"EnumValue","value":0},{"name":"SLIDING_VERTICALLY","tag":"EnumValue","value":1},{"name":"HINGED","tag":"EnumValue","value":2},{"name":"GATE","tag":"EnumValue","value":3},{"name":"HINGED_SIDE_ONE","tag":"EnumValue","value":4},{"name":"HINGED_SIDE_TWO","tag":"EnumValue","value":5}],"name":"EDoorOpeningType","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Assign","tag":"EnumValue","value":0},{"name":"Cycle","tag":"EnumValue","value":1},{"name":"Restore","tag":"EnumValue","value":2}],"name":"EHotkeyRequestType","tag":"Enum"}

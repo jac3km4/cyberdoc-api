@@ -1,0 +1,1 @@
+{"members":[{"name":"Body","tag":"EnumValue","value":0},{"name":"Reflex","tag":"EnumValue","value":1},{"name":"Technical_Ability","tag":"EnumValue","value":2},{"name":"Johnny","tag":"EnumValue","value":3},{"name":"Cool","tag":"EnumValue","value":4},{"name":"Intelligence","tag":"EnumValue","value":5}],"name":"PerkMenuAttribute","tag":"Enum"}

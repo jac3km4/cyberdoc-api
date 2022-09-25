@@ -1,0 +1,1 @@
+{"members":[{"name":"Jump","tag":"EnumValue","value":0},{"name":"DoubleJump","tag":"EnumValue","value":1},{"name":"ChargedJump","tag":"EnumValue","value":2},{"name":"Dodge","tag":"EnumValue","value":3},{"name":"AirDodge","tag":"EnumValue","value":4}],"name":"telemetryMovementType","tag":"Enum"}

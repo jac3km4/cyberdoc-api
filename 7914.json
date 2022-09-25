@@ -1,0 +1,1 @@
+{"members":[{"name":"GENERAL","tag":"EnumValue","value":1},{"name":"ASSERT","tag":"EnumValue","value":2},{"name":"WEAKSPOTS","tag":"EnumValue","value":4}],"name":"damageSystemLogFlags","tag":"Enum"}

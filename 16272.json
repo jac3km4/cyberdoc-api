@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":false,"isFinal":false,"isNative":true,"isStatic":true,"name":"GetAllBlackboardDefs","parameters":[],"returnType":{"inner":{"index":16275,"kind":"Class","name":"AllBlackboardDefinitions","tag":"Type"},"kind":"Ref","tag":"Type"},"source":null,"tag":"Function","visibility":"public"}

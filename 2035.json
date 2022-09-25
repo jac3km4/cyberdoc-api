@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":-1},{"name":"Head","tag":"EnumValue","value":1},{"name":"LeftTorso","tag":"EnumValue","value":2},{"name":"RightTorso","tag":"EnumValue","value":3},{"name":"Belly","tag":"EnumValue","value":4},{"name":"LeftLeg","tag":"EnumValue","value":5},{"name":"RightLeg","tag":"EnumValue","value":6}],"name":"EAIHitBodyPart","tag":"Enum"}

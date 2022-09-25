@@ -1,0 +1,1 @@
+{"members":[{"name":"Bike","tag":"EnumValue","value":0},{"name":"Car","tag":"EnumValue","value":1},{"name":"Panzer","tag":"EnumValue","value":2},{"name":"Count","tag":"EnumValue","value":3},{"name":"Invalid","tag":"EnumValue","value":4}],"name":"gamedataVehicleType","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":15968,"name":"PlayerScriptableSystemRequest"},{"base":null,"index":10075,"name":"ScriptableSystemRequest"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":false,"isStruct":false,"methods":[],"name":"ClearEquipmentRequest","tag":"Class","visibility":"public"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Deactivated","tag":"EnumValue","value":0},{"name":"Activating","tag":"EnumValue","value":1},{"name":"Activated","tag":"EnumValue","value":2}],"name":"EstatusEffectsState","tag":"Enum"}

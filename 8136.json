@@ -1,0 +1,1 @@
+{"members":[{"name":"DEFAULT","tag":"EnumValue","value":0},{"name":"CALLING","tag":"EnumValue","value":1},{"name":"TALKING","tag":"EnumValue","value":2},{"name":"CALL_MISSED","tag":"EnumValue","value":3},{"name":"CALL_ENDED","tag":"EnumValue","value":4}],"name":"IntercomStatus","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"OK","tag":"EnumValue","value":0},{"name":"NoGeometry","tag":"EnumValue","value":1},{"name":"UpVectorSameAsDirection","tag":"EnumValue","value":2}],"name":"worldgeometryDescriptionQueryStatus","tag":"Enum"}

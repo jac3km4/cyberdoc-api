@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Local","tag":"EnumValue","value":1},{"name":"Upload","tag":"EnumValue","value":2},{"name":"Cloud","tag":"EnumValue","value":3},{"name":"InSync","tag":"EnumValue","value":4}],"name":"inkSaveStatus","tag":"Enum"}

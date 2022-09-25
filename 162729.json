@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":true,"isFinal":false,"isNative":false,"isStatic":true,"name":"t1","parameters":[{"isOptional":false,"isOut":false,"name":"gi","tag":"Parameter","type":{"index":9528,"kind":"Class","name":"GameInstance","tag":"Type"}}],"returnType":null,"source":"cyberpunk/UI/hud/custom/hud_recrording.script","tag":"Function","visibility":"public"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"FromInventory","tag":"EnumValue","value":0},{"name":"FromEquipment","tag":"EnumValue","value":1},{"name":"CustomizeFromEquipment","tag":"EnumValue","value":2},{"name":"CustomizeFromInventory","tag":"EnumValue","value":3},{"name":"CustomizeCyberware","tag":"EnumValue","value":4}],"name":"EInventoryComboBoxMode","tag":"Enum"}

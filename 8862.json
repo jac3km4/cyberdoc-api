@@ -1,0 +1,1 @@
+{"members":[{"name":"Ground","tag":"EnumValue","value":0},{"name":"Air","tag":"EnumValue","value":1},{"name":"Swimming","tag":"EnumValue","value":2}],"name":"EDeathType","tag":"Enum"}

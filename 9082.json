@@ -1,0 +1,1 @@
+{"members":[{"name":"INVULNERABLE","tag":"EnumValue","value":0},{"name":"INDESTRUCTIBLE","tag":"EnumValue","value":1},{"name":"DESTRUCTIBLE","tag":"EnumValue","value":2}],"name":"EDeviceDurabilityType","tag":"Enum"}

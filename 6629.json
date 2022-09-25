@@ -1,0 +1,1 @@
+{"members":[{"name":"PlayAtResourcePosition","tag":"EnumValue","value":0},{"name":"DontPlayAtResourcePosition","tag":"EnumValue","value":1},{"name":"SlideActorAndRotateDevice","tag":"EnumValue","value":2}],"name":"WorkspotSlidingBehaviour","tag":"Enum"}

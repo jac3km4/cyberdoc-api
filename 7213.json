@@ -1,0 +1,1 @@
+{"members":[{"name":"UNINITIALIZED","tag":"EnumValue","value":0},{"name":"CLEAR","tag":"EnumValue","value":1},{"name":"SEMI","tag":"EnumValue","value":2},{"name":"COMBAT","tag":"EnumValue","value":3},{"name":"FOCUS","tag":"EnumValue","value":4}],"name":"ActiveMode","tag":"Enum"}

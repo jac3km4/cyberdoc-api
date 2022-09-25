@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Light","tag":"EnumValue","value":1},{"name":"Medium","tag":"EnumValue","value":2},{"name":"Heavy","tag":"EnumValue","value":3},{"name":"Strafe","tag":"EnumValue","value":4}],"name":"gameinteractionsBumpIntensity","tag":"Enum"}

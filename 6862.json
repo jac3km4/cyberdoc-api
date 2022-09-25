@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"RegularFall","tag":"EnumValue","value":1},{"name":"SafeFall","tag":"EnumValue","value":2},{"name":"FastFall","tag":"EnumValue","value":3},{"name":"VeryFastFall","tag":"EnumValue","value":4},{"name":"DeathFall","tag":"EnumValue","value":5}],"name":"gamePSMFallStates","tag":"Enum"}

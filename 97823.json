@@ -1,0 +1,1 @@
+{"bases":[],"fields":[{"isConst":false,"isEdit":false,"isInline":false,"isNative":true,"isPersistent":false,"isRep":false,"name":"rotation","tag":"Field","type":{"index":25094,"kind":"Class","name":"Quaternion","tag":"Type"}}],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":true,"methods":[],"name":"CameraData","tag":"Class","visibility":"public"}

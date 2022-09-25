@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Filter","tag":"EnumValue","value":1},{"name":"SimulationType","tag":"EnumValue","value":2},{"name":"Ground","tag":"EnumValue","value":3}],"name":"moveSecureFootingFailureReason","tag":"Enum"}

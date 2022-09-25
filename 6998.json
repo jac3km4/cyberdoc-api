@@ -1,0 +1,1 @@
+{"members":[{"name":"ThreatNotFound","tag":"EnumValue","value":0},{"name":"Persistent","tag":"EnumValue","value":1},{"name":"NotPersistent","tag":"EnumValue","value":2}],"name":"AIThreatPersistenceStatus","tag":"Enum"}

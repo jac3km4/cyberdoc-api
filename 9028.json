@@ -1,0 +1,1 @@
+{"members":[{"name":"Flat","tag":"EnumValue","value":0},{"name":"TargetHealth","tag":"EnumValue","value":1},{"name":"Invalid","tag":"EnumValue","value":-1}],"name":"DamageEffectDisplayType","tag":"Enum"}

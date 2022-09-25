@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"HostileHuman","tag":"EnumValue","value":1},{"name":"Camera","tag":"EnumValue","value":2},{"name":"Turret","tag":"EnumValue","value":3},{"name":"Drone","tag":"EnumValue","value":4}],"name":"EUIStealthIconType","tag":"Enum"}

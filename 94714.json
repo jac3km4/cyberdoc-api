@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":10053,"name":"Event"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":true,"isNative":true,"isStruct":false,"methods":[],"name":"ActivateTriggerDestructionComponentEvent","tag":"Class","visibility":"public"}

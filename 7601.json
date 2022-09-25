@@ -1,0 +1,1 @@
+{"members":[{"name":"INVALID","tag":"EnumValue","value":0},{"name":"PUPPET","tag":"EnumValue","value":1},{"name":"VEHICLE","tag":"EnumValue","value":2},{"name":"DEVICE","tag":"EnumValue","value":3},{"name":"GENERIC","tag":"EnumValue","value":4}],"name":"ScannerObjectType","tag":"Enum"}

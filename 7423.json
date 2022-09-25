@@ -1,0 +1,1 @@
+{"members":[{"name":"Contact","tag":"EnumValue","value":0},{"name":"Group","tag":"EnumValue","value":1},{"name":"Thread","tag":"EnumValue","value":2}],"name":"MessengerContactType","tag":"Enum"}

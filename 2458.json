@@ -1,0 +1,1 @@
+{"members":[{"name":"Active","tag":"EnumValue","value":0},{"name":"LimitReached","tag":"EnumValue","value":1},{"name":"TransitionInProgress","tag":"EnumValue","value":2}],"name":"animLookAtStatus","tag":"Enum"}

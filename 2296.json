@@ -1,0 +1,1 @@
+{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"Left","tag":"EnumValue","value":1},{"name":"Backward","tag":"EnumValue","value":2},{"name":"Right","tag":"EnumValue","value":3},{"name":"Forward","tag":"EnumValue","value":4}],"name":"gameeventsDeathDirection","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":91307,"name":"EffectExecutor"},{"base":null,"index":91306,"name":"EffectNode"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"EffectExecutor_Scripted","tag":"Class","visibility":"public"}

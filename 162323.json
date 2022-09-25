@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"GetNotSavableClasses;","parameters":[],"returnType":{"inner":{"kind":"Prim","name":"CName","tag":"Type"},"kind":"Array","tag":"Type"},"source":"core/systems/varDBSystem.script","tag":"Function","visibility":"public"}

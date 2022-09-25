@@ -1,0 +1,1 @@
+{"members":[{"name":"Failed","tag":"EnumValue","value":0},{"name":"Succeded","tag":"EnumValue","value":1},{"name":"NotFound","tag":"EnumValue","value":2}],"name":"AIReactionCountOutcome","tag":"Enum"}

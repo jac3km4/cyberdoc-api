@@ -1,0 +1,1 @@
+{"members":[{"name":"Any","tag":"EnumValue","value":0},{"name":"Default","tag":"EnumValue","value":1},{"name":"Friendly","tag":"EnumValue","value":2},{"name":"Strong","tag":"EnumValue","value":3}],"name":"gamePSMBodyCarryingStyle","tag":"Enum"}
