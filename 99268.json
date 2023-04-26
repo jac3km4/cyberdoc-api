@@ -1,1 +1,0 @@
-{"bases":[{"base":null,"index":50653,"name":"AnimFeature_NPCState"},{"base":null,"index":27716,"name":"AnimFeature"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"AnimFeature_NPCCoverStanceState","tag":"Class","visibility":"public"}

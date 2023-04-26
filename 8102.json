@@ -1,1 +1,0 @@
-{"members":[{"name":"INFORMATION","tag":"EnumValue","value":0},{"name":"ATTENTION","tag":"EnumValue","value":1},{"name":"WARNING","tag":"EnumValue","value":2}],"name":"SignType","tag":"Enum"}

@@ -1,1 +1,0 @@
-{"bases":[{"base":null,"index":84582,"name":"PlayerStateMachinePrereqState"},{"base":null,"index":15748,"name":"PrereqState"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":false,"isStruct":false,"methods":[],"name":"CombatPSMPrereqState","tag":"Class","visibility":"public"}

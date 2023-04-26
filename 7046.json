@@ -1,1 +1,1 @@
-{"members":[{"name":"Closed","tag":"EnumValue","value":0},{"name":"Open","tag":"EnumValue","value":1}],"name":"EVehicleWindowState","tag":"Enum"}
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Dispose","tag":"EnumValue","value":1},{"name":"Lethal","tag":"EnumValue","value":2},{"name":"NonLethal","tag":"EnumValue","value":3}],"name":"gamePSMDetailedBodyDisposal","tag":"Enum"}

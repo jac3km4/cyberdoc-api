@@ -1,1 +1,1 @@
-{"members":[{"name":"THREAT","tag":"EnumValue","value":-1},{"name":"SHOOTING","tag":"EnumValue","value":0},{"name":"WORKING","tag":"EnumValue","value":1},{"name":"SCANING","tag":"EnumValue","value":2},{"name":"DAMAGED","tag":"EnumValue","value":3}],"name":"ESecurityTurretStatus","tag":"Enum"}
+{"members":[{"name":"PLAY","tag":"EnumValue","value":0},{"name":"STOP","tag":"EnumValue","value":1},{"name":"PAUSE","tag":"EnumValue","value":2},{"name":"RESUME","tag":"EnumValue","value":3}],"name":"EBinkOperationType","tag":"Enum"}

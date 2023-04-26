@@ -1,1 +1,0 @@
-{"bases":[{"base":null,"index":71717,"name":"ScanningEvent"},{"base":null,"index":10053,"name":"Event"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":true,"isNative":true,"isStruct":false,"methods":[],"name":"ScanningEventForInstigator","tag":"Class","visibility":"public"}

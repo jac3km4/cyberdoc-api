@@ -1,1 +1,1 @@
-{"members":[{"name":"All","tag":"EnumValue","value":0},{"name":"Vendor","tag":"EnumValue","value":1},{"name":"Player","tag":"EnumValue","value":2},{"name":"Buyback","tag":"EnumValue","value":3}],"name":"RipperdocFilter","tag":"Enum"}
+{"members":[{"name":"Map","tag":"EnumValue","value":0}],"name":"EWorldMapView","tag":"Enum"}

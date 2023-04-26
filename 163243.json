@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":true,"isFinal":false,"isNative":false,"isStatic":true,"name":"Kill","parameters":[{"isOptional":false,"isOut":false,"name":"gameInstance","tag":"Parameter","type":{"index":9534,"kind":"Class","name":"GameInstance","tag":"Type"}}],"returnType":null,"source":"exec/damage.script","tag":"Function","visibility":"public"}

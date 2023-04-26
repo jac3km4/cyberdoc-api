@@ -1,1 +1,1 @@
-{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"OverridesSelf","tag":"EnumValue","value":1},{"name":"InterruptsSamePriorityTask","tag":"EnumValue","value":2},{"name":"InterruptsForcedBehavior","tag":"EnumValue","value":3},{"name":"AcceptsAdditives","tag":"EnumValue","value":4}],"name":"AISignalFlags","tag":"Enum"}
+{"members":[{"name":"Alive","tag":"EnumValue","value":0},{"name":"Dead","tag":"EnumValue","value":1},{"name":"Resurrecting","tag":"EnumValue","value":2}],"name":"gamePSMVitals","tag":"Enum"}

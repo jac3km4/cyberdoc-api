@@ -1,1 +1,1 @@
-{"members":[{"name":"DONT_CHANGE","tag":"EnumValue","value":0},{"name":"ALLOW_NONE","tag":"EnumValue","value":1},{"name":"ALLOW_COMBAT_ONLY","tag":"EnumValue","value":2},{"name":"ALLOW_ALL","tag":"EnumValue","value":3}],"name":"EQuestFilterType","tag":"Enum"}
+{"members":[{"name":"HitTriggered","tag":"EnumValue","value":0},{"name":"HitReceived","tag":"EnumValue","value":1},{"name":"PipelineProcessed","tag":"EnumValue","value":2},{"name":"COUNT","tag":"EnumValue","value":3},{"name":"INVALID","tag":"EnumValue","value":4}],"name":"gameDamageCallbackType","tag":"Enum"}

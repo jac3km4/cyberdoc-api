@@ -1,1 +1,1 @@
-{"members":[{"name":"FILE","tag":"EnumValue","value":0},{"name":"MAIL","tag":"EnumValue","value":1},{"name":"Invalid","tag":"EnumValue","value":2}],"name":"EDocumentType","tag":"Enum"}
+{"members":[{"name":"INFORMATION","tag":"EnumValue","value":0},{"name":"ATTENTION","tag":"EnumValue","value":1},{"name":"WARNING","tag":"EnumValue","value":2}],"name":"SignType","tag":"Enum"}

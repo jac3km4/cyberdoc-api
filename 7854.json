@@ -1,1 +1,1 @@
-{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Left","tag":"EnumValue","value":1},{"name":"Right","tag":"EnumValue","value":2}],"name":"ECoverSpecialAction","tag":"Enum"}
+{"members":[{"name":"ApplyOnlyActiveSlot","tag":"EnumValue","value":0},{"name":"ApplyActiveSlotAndConsumables","tag":"EnumValue","value":1}],"name":"ERadialMode","tag":"Enum"}

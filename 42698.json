@@ -1,1 +1,0 @@
-{"bases":[],"fields":[{"isConst":false,"isEdit":false,"isInline":false,"isNative":true,"isPersistent":false,"isRep":false,"name":"reason","tag":"Field","type":{"index":2934,"kind":"Class","name":"gameSaveLockReason","tag":"Type"}}],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":true,"methods":[],"name":"gameSaveLock","tag":"Class","visibility":"public"}

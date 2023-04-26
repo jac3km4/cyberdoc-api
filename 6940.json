@@ -1,1 +1,1 @@
-{"members":[{"name":"PLAY","tag":"EnumValue","value":0},{"name":"STOP","tag":"EnumValue","value":1},{"name":"PAUSE","tag":"EnumValue","value":2},{"name":"RESUME","tag":"EnumValue","value":3},{"name":"CONTINUE","tag":"EnumValue","value":4},{"name":"GO_TO_START","tag":"EnumValue","value":5},{"name":"GO_TO_END","tag":"EnumValue","value":6}],"name":"EInkAnimationPlaybackOption","tag":"Enum"}
+{"members":[{"name":"Caller","tag":"EnumValue","value":0},{"name":"Texter","tag":"EnumValue","value":1}],"name":"gameContactType","tag":"Enum"}

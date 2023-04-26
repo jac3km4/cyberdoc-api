@@ -1,1 +1,1 @@
-{"members":[{"name":"UnbootedIdle","tag":"EnumValue","value":0},{"name":"BootingAttempt","tag":"EnumValue","value":1},{"name":"BootingSuccess","tag":"EnumValue","value":2},{"name":"Loop","tag":"EnumValue","value":3}],"name":"panzerBootupUI","tag":"Enum"}
+{"members":[{"name":"Cancel","tag":"EnumValue","value":0},{"name":"Confirm","tag":"EnumValue","value":1},{"name":"OK","tag":"EnumValue","value":2},{"name":"Yes","tag":"EnumValue","value":3},{"name":"No","tag":"EnumValue","value":4}],"name":"GenericMessageNotificationResult","tag":"Enum"}

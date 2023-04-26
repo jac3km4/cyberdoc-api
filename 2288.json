@@ -1,1 +1,0 @@
-{"members":[{"name":"Medium","tag":"EnumValue","value":0},{"name":"Close","tag":"EnumValue","value":1},{"name":"Far","tag":"EnumValue","value":2},{"name":"VeryFar","tag":"EnumValue","value":3}],"name":"ECompanionDistancePreset","tag":"Enum"}

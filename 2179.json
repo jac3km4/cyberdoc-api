@@ -1,1 +1,0 @@
-{"members":[{"name":"Bool","tag":"EnumValue","value":0},{"name":"EquipOnPlayer","tag":"EnumValue","value":1},{"name":"EquipOnNPC","tag":"EnumValue","value":2},{"name":"ExcludeRootCombination","tag":"EnumValue","value":3}],"name":"gameEStatFlags","tag":"Enum"}

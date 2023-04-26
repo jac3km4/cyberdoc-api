@@ -1,1 +1,1 @@
-{"members":[{"name":"Lethal","tag":"EnumValue","value":0},{"name":"Nonlethal","tag":"EnumValue","value":1},{"name":"Breach","tag":"EnumValue","value":2}],"name":"Ft_TakedownType","tag":"Enum"}
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Start","tag":"EnumValue","value":1},{"name":"Stop","tag":"EnumValue","value":2}],"name":"gameEContinuousMode","tag":"Enum"}

@@ -1,1 +1,1 @@
-{"members":[{"name":"World","tag":"EnumValue","value":0},{"name":"Minimap","tag":"EnumValue","value":1},{"name":"Map","tag":"EnumValue","value":2}],"name":"gamemappinsMappinTargetType","tag":"Enum"}
+{"members":[{"name":"OUTSIDE_CAMERA","tag":"EnumValue","value":0},{"name":"IN_CAMERA","tag":"EnumValue","value":1},{"name":"VISIBLE","tag":"EnumValue","value":2},{"name":"LOOKEDAT","tag":"EnumValue","value":3}],"name":"ActorVisibilityStatus","tag":"Enum"}

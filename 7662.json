@@ -1,1 +1,0 @@
-{"members":[{"name":"Heat_0","tag":"EnumValue","value":0},{"name":"Heat_1","tag":"EnumValue","value":1},{"name":"Heat_2","tag":"EnumValue","value":2},{"name":"Heat_3","tag":"EnumValue","value":3},{"name":"Heat_4","tag":"EnumValue","value":4},{"name":"Size","tag":"EnumValue","value":5},{"name":"Invalid","tag":"EnumValue","value":6}],"name":"EPreventionHeatStage","tag":"Enum"}

@@ -1,1 +1,0 @@
-{"isCallback":false,"isExec":false,"isFinal":false,"isNative":true,"isStatic":true,"name":"Cast;Double;Uint64","parameters":[{"isOptional":false,"isOut":false,"name":"a","tag":"Parameter","type":{"kind":"Prim","name":"Double","tag":"Type"}}],"returnType":{"kind":"Prim","name":"Uint64","tag":"Type"},"source":null,"tag":"Function","visibility":"public"}

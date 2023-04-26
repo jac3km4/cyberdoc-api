@@ -1,1 +1,0 @@
-{"bases":[],"fields":[{"isConst":false,"isEdit":false,"isInline":false,"isNative":false,"isPersistent":false,"isRep":false,"name":"m_canStreamVideo","tag":"Field","type":{"kind":"Prim","name":"Bool","tag":"Type"}}],"isAbstract":false,"isFinal":false,"isNative":false,"isStruct":true,"methods":[],"name":"CameraSetup","tag":"Class","visibility":"public"}

@@ -1,1 +1,1 @@
-{"members":[{"name":"INVALID","tag":"EnumValue","value":0},{"name":"BOX","tag":"EnumValue","value":1},{"name":"SPHERE","tag":"EnumValue","value":2},{"name":"CONE","tag":"EnumValue","value":3},{"name":"ANGLE_RANGE","tag":"EnumValue","value":4}],"name":"senseEShapeType","tag":"Enum"}
+{"members":[{"name":"FPP","tag":"EnumValue","value":0},{"name":"TPP","tag":"EnumValue","value":1}],"name":"vehicleCameraType","tag":"Enum"}

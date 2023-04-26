@@ -1,1 +1,1 @@
-{"members":[{"name":"Miss","tag":"EnumValue","value":0},{"name":"Glance","tag":"EnumValue","value":1},{"name":"Hit","tag":"EnumValue","value":2},{"name":"CriticalHit","tag":"EnumValue","value":3},{"name":"CriticalHit_x2","tag":"EnumValue","value":4}],"name":"gameuiHitType","tag":"Enum"}
+{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"Codex","tag":"EnumValue","value":1},{"name":"Onscreen","tag":"EnumValue","value":2}],"name":"CodexDataSource","tag":"Enum"}

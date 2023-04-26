@@ -1,0 +1,1 @@
+{"members":[{"name":"Single","tag":"EnumValue","value":0},{"name":"Parent","tag":"EnumValue","value":1},{"name":"Children","tag":"EnumValue","value":2},{"name":"TypeBased","tag":"EnumValue","value":3},{"name":"NameBased","tag":"EnumValue","value":4}],"name":"inkSelectionRule","tag":"Enum"}

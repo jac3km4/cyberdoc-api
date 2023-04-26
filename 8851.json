@@ -1,1 +1,1 @@
-{"members":[{"name":"LowGravity","tag":"EnumValue","value":0},{"name":"Regular","tag":"EnumValue","value":1}],"name":"EGravityType","tag":"Enum"}
+{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"IncomingCall","tag":"EnumValue","value":1},{"name":"StartCall","tag":"EnumValue","value":2},{"name":"EndCall","tag":"EnumValue","value":3}],"name":"questPhoneCallPhase","tag":"Enum"}

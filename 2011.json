@@ -1,1 +1,1 @@
-{"members":[{"name":"None","tag":"EnumValue","value":-1},{"name":"Light","tag":"EnumValue","value":0},{"name":"Medium","tag":"EnumValue","value":1},{"name":"Heavy","tag":"EnumValue","value":2},{"name":"Explosion","tag":"EnumValue","value":3}],"name":"EAIHitIntensity","tag":"Enum"}
+{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"Started","tag":"EnumValue","value":1},{"name":"Finished","tag":"EnumValue","value":2}],"name":"questObjectInspectEventType","tag":"Enum"}

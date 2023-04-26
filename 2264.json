@@ -1,1 +1,1 @@
-{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Started","tag":"EnumValue","value":1},{"name":"Stopped","tag":"EnumValue","value":2},{"name":"Complete","tag":"EnumValue","value":3},{"name":"ShallowComplete","tag":"EnumValue","value":4}],"name":"gameScanningState","tag":"Enum"}
+{"members":[{"name":"Relaxed","tag":"EnumValue","value":0},{"name":"Combat","tag":"EnumValue","value":1}],"name":"DronePose","tag":"Enum"}

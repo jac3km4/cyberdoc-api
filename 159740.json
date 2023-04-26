@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":11429,"name":"ScannableData_Record"},{"base":null,"index":10286,"name":"TweakDBRecord"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"ObjectActionGameplayCategory_Record","tag":"Class","visibility":"public"}

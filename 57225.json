@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":57207,"name":"HostileThreatDetected"},{"base":null,"index":23480,"name":"AIEvent"},{"base":null,"index":10059,"name":"Event"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":false,"isStruct":false,"methods":[],"name":"PlayerHostileThreatDetected","tag":"Class","visibility":"public"}

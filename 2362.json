@@ -1,0 +1,1 @@
+{"members":[{"name":"Blend","tag":"EnumValue","value":0},{"name":"TeleportToStart","tag":"EnumValue","value":1},{"name":"PlayAtActorPosition","tag":"EnumValue","value":2}],"name":"gameSceneAnimationMotionActionParamsPlacementMode","tag":"Enum"}

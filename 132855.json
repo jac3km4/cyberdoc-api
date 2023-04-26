@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":98082,"name":"EffectDurationModifier_Scripted"},{"base":null,"index":98081,"name":"EffectDurationModifier"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":true,"isFinal":false,"isNative":false,"isStruct":false,"methods":[],"name":"StrikeDuration_Debug","tag":"Class","visibility":"public"}

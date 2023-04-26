@@ -1,1 +1,1 @@
-{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Weapon","tag":"EnumValue","value":1},{"name":"Clothing","tag":"EnumValue","value":2},{"name":"Grenade","tag":"EnumValue","value":3},{"name":"Cyberware","tag":"EnumValue","value":4}],"name":"UIItemCategory","tag":"Enum"}
+{"members":[{"name":"Ripperdoc","tag":"EnumValue","value":0},{"name":"Inventory","tag":"EnumValue","value":1}],"name":"CyberwareScreenType","tag":"Enum"}

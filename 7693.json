@@ -1,1 +1,1 @@
-{"members":[{"name":"Unknown","tag":"EnumValue","value":0},{"name":"InProgress","tag":"EnumValue","value":1},{"name":"Succeeded","tag":"EnumValue","value":2},{"name":"Failed","tag":"EnumValue","value":3}],"name":"HackingMinigameState","tag":"Enum"}
+{"members":[{"name":"False","tag":"EnumValue","value":0},{"name":"True","tag":"EnumValue","value":1},{"name":"Pass","tag":"EnumValue","value":2}],"name":"DerivedFilterResult","tag":"Enum"}

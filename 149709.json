@@ -1,1 +1,0 @@
-{"bases":[{"base":null,"index":149708,"name":"IRandomizationSupervisor"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"ScriptedRandomizationSupervisor","tag":"Class","visibility":"public"}

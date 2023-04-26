@@ -1,1 +1,1 @@
-{"members":[{"name":"INVALID","tag":"EnumValue","value":0},{"name":"RoachRace","tag":"EnumValue","value":1},{"name":"Panzer","tag":"EnumValue","value":2},{"name":"Retros","tag":"EnumValue","value":3},{"name":"Quadracer","tag":"EnumValue","value":4}],"name":"ArcadeMinigame","tag":"Enum"}
+{"members":[{"name":"Item","tag":"EnumValue","value":0},{"name":"Mod","tag":"EnumValue","value":1}],"name":"ItemViewModes","tag":"Enum"}

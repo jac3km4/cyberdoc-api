@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":91363,"name":"AIbehaviorexpressionScript"},{"base":null,"index":85021,"name":"AIBehaviorScriptBase"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":true,"isFinal":false,"isNative":false,"isStruct":false,"methods":[],"name":"PassiveAutonomousCondition","tag":"Class","visibility":"public"}

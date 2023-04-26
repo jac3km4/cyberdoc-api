@@ -1,0 +1,1 @@
+{"members":[{"name":"Normal","tag":"EnumValue","value":0},{"name":"Melee","tag":"EnumValue","value":1},{"name":"Ranged","tag":"EnumValue","value":2}],"name":"ETauntType","tag":"Enum"}

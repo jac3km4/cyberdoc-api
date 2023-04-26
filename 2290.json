@@ -1,0 +1,1 @@
+{"members":[{"name":"Idle","tag":"EnumValue","value":0},{"name":"FirstTick","tag":"EnumValue","value":1},{"name":"NormalTick","tag":"EnumValue","value":2},{"name":"LastTick","tag":"EnumValue","value":3},{"name":"Canceled","tag":"EnumValue","value":4}],"name":"gameTickableEventState","tag":"Enum"}

@@ -1,1 +1,0 @@
-{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"TSQ_EnemyNPC;","parameters":[],"returnType":{"index":71372,"kind":"Class","name":"TargetSearchQuery","tag":"Type"},"source":"core/gameplay/targetingSearchFilter.ws","tag":"Function","visibility":"public"}

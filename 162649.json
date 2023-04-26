@@ -1,1 +1,0 @@
-{"isCallback":false,"isExec":true,"isFinal":false,"isNative":false,"isStatic":true,"name":"printJ","parameters":[{"isOptional":false,"isOut":false,"name":"instance","tag":"Parameter","type":{"index":9528,"kind":"Class","name":"GameInstance","tag":"Type"}}],"returnType":null,"source":"core/systems/journalManager.script","tag":"Function","visibility":"public"}

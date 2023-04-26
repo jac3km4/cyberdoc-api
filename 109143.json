@@ -1,1 +1,0 @@
-{"bases":[{"base":null,"index":34517,"name":"inkLogicController"},{"base":null,"index":18376,"name":"inkILogicController"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":true,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"ILoadingLogicController","tag":"Class","visibility":"public"}

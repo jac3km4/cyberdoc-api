@@ -1,1 +1,1 @@
-{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Cycle","tag":"EnumValue","value":1},{"name":"PingPong","tag":"EnumValue","value":2}],"name":"inkanimLoopType","tag":"Enum"}
+{"members":[{"name":"Homing","tag":"EnumValue","value":0},{"name":"Regular","tag":"EnumValue","value":1},{"name":"Sticky","tag":"EnumValue","value":2},{"name":"Count","tag":"EnumValue","value":3},{"name":"Invalid","tag":"EnumValue","value":4}],"name":"gamedataGrenadeDeliveryMethodType","tag":"Enum"}

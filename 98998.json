@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":98997,"name":"AICommandParams"},{"base":null,"index":98996,"name":"AICommandFactory"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":true,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"MiscAICommandNodeParams","tag":"Class","visibility":"public"}

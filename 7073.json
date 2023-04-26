@@ -1,1 +1,1 @@
-{"members":[{"name":"ForceOpen","tag":"EnumValue","value":0},{"name":"ForceClose","tag":"EnumValue","value":1},{"name":"OpenAll","tag":"EnumValue","value":2},{"name":"CloseAll","tag":"EnumValue","value":3}],"name":"EQuestVehicleWindowState","tag":"Enum"}
+{"members":[{"name":"Maximize","tag":"EnumValue","value":0},{"name":"Minimize","tag":"EnumValue","value":1}],"name":"questJournalSizeEventType","tag":"Enum"}

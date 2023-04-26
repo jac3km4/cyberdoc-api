@@ -1,1 +1,0 @@
-{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"HalfPi;","parameters":[],"returnType":{"kind":"Prim","name":"Float","tag":"Type"},"source":"core/math/scalar.ws","tag":"Function","visibility":"public"}

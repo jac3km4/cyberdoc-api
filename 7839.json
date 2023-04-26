@@ -1,1 +1,1 @@
-{"members":[{"name":"ApplyOnlyActiveSlot","tag":"EnumValue","value":0},{"name":"ApplyActiveSlotAndConsumables","tag":"EnumValue","value":1}],"name":"ERadialMode","tag":"Enum"}
+{"members":[{"name":"Menus","tag":"EnumValue","value":0},{"name":"HUD","tag":"EnumValue","value":1}],"name":"ETooltipsStyle","tag":"Enum"}

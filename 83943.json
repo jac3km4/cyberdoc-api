@@ -1,1 +1,0 @@
-{"bases":[{"base":null,"index":83942,"name":"IStatusEffectListener"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"ScriptStatusEffectListener","tag":"Class","visibility":"public"}

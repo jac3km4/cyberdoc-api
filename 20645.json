@@ -1,1 +1,0 @@
-{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"RoundMath;Float","parameters":[{"isOptional":false,"isOut":false,"name":"f","tag":"Parameter","type":{"kind":"Prim","name":"Float","tag":"Type"}}],"returnType":{"kind":"Prim","name":"Int32","tag":"Type"},"source":"core/math/scalar.ws","tag":"Function","visibility":"public"}

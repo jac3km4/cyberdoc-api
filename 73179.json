@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":15974,"name":"PlayerScriptableSystemRequest"},{"base":null,"index":10081,"name":"ScriptableSystemRequest"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"PlayerAttachRequest","tag":"Class","visibility":"public"}

@@ -1,1 +1,1 @@
-{"members":[{"name":"Preview","tag":"EnumValue","value":0}],"name":"gameEItemIDFlag","tag":"Enum"}
+{"members":[{"name":"Off","tag":"EnumValue","value":0},{"name":"On","tag":"EnumValue","value":1},{"name":"HighBeams","tag":"EnumValue","value":2}],"name":"vehicleELightMode","tag":"Enum"}

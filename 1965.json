@@ -1,1 +1,1 @@
-{"members":[{"name":"SetTrue","tag":"EnumValue","value":0},{"name":"SetFalse","tag":"EnumValue","value":1},{"name":"Toggle","tag":"EnumValue","value":2}],"name":"ECallbackExpressionActions","tag":"Enum"}
+{"members":[{"name":"Fail","tag":"EnumValue","value":0},{"name":"Success","tag":"EnumValue","value":1},{"name":"Unknown","tag":"EnumValue","value":2}],"name":"gameinfluenceTestLineResult","tag":"Enum"}

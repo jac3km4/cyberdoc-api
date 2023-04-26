@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":102426,"name":"EffectAction"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":true,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"EffectPreAction","tag":"Class","visibility":"public"}

@@ -1,1 +1,1 @@
-{"members":[{"name":"CraftingFinished","tag":"EnumValue","value":0},{"name":"DisassemblingFinished","tag":"EnumValue","value":1},{"name":"UpgradingFinished","tag":"EnumValue","value":2},{"name":"Failed","tag":"EnumValue","value":3}],"name":"CraftingCommands","tag":"Enum"}
+{"members":[{"name":"Attributes","tag":"EnumValue","value":0},{"name":"Perks","tag":"EnumValue","value":1}],"name":"CharacterScreenType","tag":"Enum"}

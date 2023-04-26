@@ -1,1 +1,1 @@
-{"members":[{"name":"WidgetArea","tag":"EnumValue","value":0},{"name":"CustomArea","tag":"EnumValue","value":1}],"name":"gameTutorialBracketType","tag":"Enum"}
+{"members":[{"name":"NETWORK","tag":"EnumValue","value":0},{"name":"GRID","tag":"EnumValue","value":1},{"name":"FREE","tag":"EnumValue","value":2},{"name":"INVALID","tag":"EnumValue","value":3}],"name":"ELinkType","tag":"Enum"}

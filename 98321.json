@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":98304,"name":"TaggedAIEvent"},{"base":null,"index":23480,"name":"AIEvent"},{"base":null,"index":10059,"name":"Event"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"SignalEvent","tag":"Class","visibility":"public"}

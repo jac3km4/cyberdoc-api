@@ -1,1 +1,0 @@
-{"members":[{"name":"UNARMED","tag":"EnumValue","value":0},{"name":"ARMED","tag":"EnumValue","value":1},{"name":"TRIGGERED","tag":"EnumValue","value":2}],"name":"EJuryrigTrapState","tag":"Enum"}

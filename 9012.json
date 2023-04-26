@@ -1,1 +1,0 @@
-{"members":[{"name":"NOT_CONNECTED","tag":"EnumValue","value":0},{"name":"CONNECTING","tag":"EnumValue","value":1},{"name":"CONNECTED","tag":"EnumValue","value":2},{"name":"DISCONNECTING","tag":"EnumValue","value":3}],"name":"EPersonalLinkConnectionStatus","tag":"Enum"}

@@ -1,1 +1,1 @@
-{"members":[{"name":"Center","tag":"EnumValue","value":0},{"name":"Left","tag":"EnumValue","value":1},{"name":"Right","tag":"EnumValue","value":2},{"name":"LeftFullBody","tag":"EnumValue","value":3}],"name":"PaperdollPositionAnimation","tag":"Enum"}
+{"members":[{"name":"Disabled","tag":"EnumValue","value":0},{"name":"ArrowsUp","tag":"EnumValue","value":1},{"name":"ArrowsDown","tag":"EnumValue","value":2}],"name":"EForcedElevatorArrowsState","tag":"Enum"}

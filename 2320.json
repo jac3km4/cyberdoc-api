@@ -1,1 +1,0 @@
-{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Ladder","tag":"EnumValue","value":1},{"name":"Jump","tag":"EnumValue","value":2},{"name":"Climb","tag":"EnumValue","value":3},{"name":"Vault","tag":"EnumValue","value":4},{"name":"ChargedJump","tag":"EnumValue","value":5},{"name":"ThrusterJump","tag":"EnumValue","value":6}],"name":"moveExplorationType","tag":"Enum"}

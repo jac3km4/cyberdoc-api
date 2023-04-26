@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":84094,"name":"GenericHitPrereq"},{"base":null,"index":15728,"name":"IScriptablePrereq"},{"base":null,"index":15717,"name":"IPrereq"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":false,"isStruct":false,"methods":[],"name":"HitIsBodyPartTorsoPrereq","tag":"Class","visibility":"public"}

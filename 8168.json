@@ -1,1 +1,0 @@
-{"members":[{"name":"REGULAR_INTERVALS","tag":"EnumValue","value":0},{"name":"ACCELERATING_INTERVALS_TODO","tag":"EnumValue","value":1},{"name":"DECELERATING_INTEVALS_TODO","tag":"EnumValue","value":2},{"name":"RANDOM_INTERVALS_TODO","tag":"EnumValue","value":3},{"name":"AT_THE_SAME_TIME_TODO","tag":"EnumValue","value":4}],"name":"EActionsSequencerMode","tag":"Enum"}

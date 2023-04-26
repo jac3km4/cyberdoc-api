@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":27285,"name":"gameHitEvent"},{"base":null,"index":10059,"name":"Event"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"gameTargetHitEvent","tag":"Class","visibility":"public"}

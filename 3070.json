@@ -1,1 +1,1 @@
-{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Parent","tag":"EnumValue","value":1},{"name":"Child","tag":"EnumValue","value":2}],"name":"gameMountingRelationshipType","tag":"Enum"}
+{"members":[{"name":"UNINITIALIZED","tag":"EnumValue","value":0},{"name":"REGISTERED","tag":"EnumValue","value":1},{"name":"ACTIVE","tag":"EnumValue","value":2}],"name":"HUDActorStatus","tag":"Enum"}

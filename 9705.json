@@ -1,1 +1,0 @@
-{"bases":[{"base":null,"index":9635,"name":"IReplicatedGameSystem"},{"base":null,"index":9507,"name":"IGameSystem"},{"base":null,"index":9314,"name":"IScriptable"}],"fields":[],"isAbstract":true,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"IGodModeSystem","tag":"Class","visibility":"public"}

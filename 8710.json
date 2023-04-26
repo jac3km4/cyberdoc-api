@@ -1,0 +1,1 @@
+{"members":[{"name":"DONT_CHANGE","tag":"EnumValue","value":0},{"name":"ALLOW_NONE","tag":"EnumValue","value":1},{"name":"ALLOW_COMBAT_ONLY","tag":"EnumValue","value":2},{"name":"ALLOW_ALL","tag":"EnumValue","value":3}],"name":"EQuestFilterType","tag":"Enum"}

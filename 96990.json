@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":96989,"name":"SoundComponentBase"},{"base":null,"index":15023,"name":"IPlacedComponent"},{"base":null,"index":15009,"name":"IComponent"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":true,"isNative":true,"isStruct":false,"methods":[],"name":"soundComponent","tag":"Class","visibility":"public"}

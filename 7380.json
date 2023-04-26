@@ -1,1 +1,1 @@
-{"members":[{"name":"Trade","tag":"EnumValue","value":0},{"name":"Cyberware","tag":"EnumValue","value":1}],"name":"HubVendorMenuItems","tag":"Enum"}
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Character","tag":"EnumValue","value":1}],"name":"CodexImageType","tag":"Enum"}

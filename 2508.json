@@ -1,1 +1,1 @@
-{"members":[{"name":"FPP","tag":"EnumValue","value":0},{"name":"TPP","tag":"EnumValue","value":1}],"name":"vehicleCameraType","tag":"Enum"}
+{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"Slow","tag":"EnumValue","value":1},{"name":"Normal","tag":"EnumValue","value":2},{"name":"Fast","tag":"EnumValue","value":3}],"name":"Tier2WalkType","tag":"Enum"}

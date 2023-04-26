@@ -1,0 +1,1 @@
+{"members":[{"name":"Animated","tag":"EnumValue","value":0},{"name":"Skinned","tag":"EnumValue","value":1},{"name":"Slot","tag":"EnumValue","value":2},{"name":"Count","tag":"EnumValue","value":3},{"name":"Invalid","tag":"EnumValue","value":4}],"name":"gamedataParentAttachmentType","tag":"Enum"}

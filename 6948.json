@@ -1,1 +1,1 @@
-{"members":[{"name":"OR","tag":"EnumValue","value":0},{"name":"AND","tag":"EnumValue","value":1}],"name":"WorkspotConditionOperators","tag":"Enum"}
+{"members":[{"name":"Rested","tag":"EnumValue","value":0},{"name":"Exhausted","tag":"EnumValue","value":1}],"name":"gamePSMStamina","tag":"Enum"}

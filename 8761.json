@@ -1,0 +1,1 @@
+{"members":[{"name":"LOCAL","tag":"EnumValue","value":0},{"name":"EXTERNAL","tag":"EnumValue","value":1},{"name":"GLOBAL","tag":"EnumValue","value":2}],"name":"EBreachOrigin","tag":"Enum"}

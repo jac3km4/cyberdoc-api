@@ -1,1 +1,1 @@
-{"members":[{"name":"WEEKLY","tag":"EnumValue","value":0},{"name":"MONTHLY","tag":"EnumValue","value":1}],"name":"EPaymentSchedule","tag":"Enum"}
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Item","tag":"EnumValue","value":1}],"name":"InventoryModes","tag":"Enum"}

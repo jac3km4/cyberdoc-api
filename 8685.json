@@ -1,1 +1,0 @@
-{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"InCombat","tag":"EnumValue","value":1},{"name":"OutOfCombat","tag":"EnumValue","value":2},{"name":"Stealth","tag":"EnumValue","value":3}],"name":"PlayerCombatState","tag":"Enum"}

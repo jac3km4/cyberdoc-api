@@ -1,1 +1,0 @@
-{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"SurveillanceSystem","tag":"EnumValue","value":1},{"name":"DoorSystem","tag":"EnumValue","value":2},{"name":"MediaSystem","tag":"EnumValue","value":3},{"name":"SecuritySystem","tag":"EnumValue","value":4}],"name":"EVirtualSystem","tag":"Enum"}

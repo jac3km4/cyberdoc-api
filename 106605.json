@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":35776,"name":"JournalContainerEntry"},{"base":null,"index":35770,"name":"JournalEntry"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":true,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"JournalPhoneChoiceGroup","tag":"Class","visibility":"public"}
