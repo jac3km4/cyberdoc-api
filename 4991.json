@@ -1,0 +1,1 @@
+{"members":[{"name":"DEFAULT","tag":"EnumValue","value":0},{"name":"WARNING","tag":"EnumValue","value":1},{"name":"ERROR","tag":"EnumValue","value":2}],"name":"ELogType","tag":"Enum"}

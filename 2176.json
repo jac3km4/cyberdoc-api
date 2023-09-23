@@ -1,0 +1,1 @@
+{"members":[{"name":"AIA_Friendly","tag":"EnumValue","value":0},{"name":"AIA_Neutral","tag":"EnumValue","value":1},{"name":"AIA_Hostile","tag":"EnumValue","value":2}],"name":"EAIAttitude","tag":"Enum"}

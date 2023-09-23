@@ -1,0 +1,1 @@
+{"members":[{"name":"NONE","tag":"EnumValue","value":0},{"name":"SecuritySystem","tag":"EnumValue","value":1},{"name":"AccessPoints","tag":"EnumValue","value":2},{"name":"MaintenanceSystem","tag":"EnumValue","value":3},{"name":"PersonnelSystem","tag":"EnumValue","value":4},{"name":"SurveillanceSystem","tag":"EnumValue","value":5}],"name":"ESystems","tag":"Enum"}

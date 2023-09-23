@@ -1,0 +1,1 @@
+{"members":[{"name":"REGULAR","tag":"EnumValue","value":0},{"name":"TRANSFORM","tag":"EnumValue","value":1},{"name":"TRANSFORM_TWO_SIDES","tag":"EnumValue","value":2},{"name":"NONE","tag":"EnumValue","value":3}],"name":"EAnimationType","tag":"Enum"}

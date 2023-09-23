@@ -1,1 +1,1 @@
-{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Left","tag":"EnumValue","value":1},{"name":"Right","tag":"EnumValue","value":2}],"name":"gameinteractionsBumpSide","tag":"Enum"}
+{"members":[{"name":"None","tag":"EnumValue","value":-1},{"name":"Ranged","tag":"EnumValue","value":0},{"name":"MeleeSharp","tag":"EnumValue","value":1},{"name":"MeleeBlunt","tag":"EnumValue","value":2},{"name":"QuickMelee","tag":"EnumValue","value":3}],"name":"EAIHitSource","tag":"Enum"}

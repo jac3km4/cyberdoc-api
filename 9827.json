@@ -1,0 +1,1 @@
+{"members":[{"name":"Online","tag":"EnumValue","value":0},{"name":"Offline","tag":"EnumValue","value":1},{"name":"Unresponsive","tag":"EnumValue","value":2}],"name":"InnerBunkerCoreStatus","tag":"Enum"}

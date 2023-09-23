@@ -1,1 +1,1 @@
-{"bases":[{"base":null,"index":9513,"name":"IGameSystem"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":true,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"IReactionSystem","tag":"Class","visibility":"public"}
+{"members":[{"name":"NONE","tag":"EnumValue","value":-1},{"name":"TECHIE","tag":"EnumValue","value":0},{"name":"NETRUNNER","tag":"EnumValue","value":1},{"name":"TECHIE_AND_NETRUNNER","tag":"EnumValue","value":2}],"name":"EPlaystyleType","tag":"Enum"}

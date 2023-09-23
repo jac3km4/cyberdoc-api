@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"CanLog;","parameters":[],"returnType":{"kind":"Prim","name":"Bool","tag":"Type"},"source":"core/systems/gameInstance.script","tag":"Function","visibility":"public"}

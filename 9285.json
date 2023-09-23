@@ -1,0 +1,1 @@
+{"members":[{"name":"NOT_CONNECTED","tag":"EnumValue","value":0},{"name":"NOT_BREACHED","tag":"EnumValue","value":1},{"name":"TIER1","tag":"EnumValue","value":2},{"name":"TIER2","tag":"EnumValue","value":3},{"name":"TIER3","tag":"EnumValue","value":4},{"name":"BREACHED","tag":"EnumValue","value":5}],"name":"ScannerNetworkState","tag":"Enum"}

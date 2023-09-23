@@ -1,1 +1,1 @@
-{"members":[{"name":"AUDIOVISUAL_ONLY","tag":"EnumValue","value":0},{"name":"SEC_SYS_REPRIMAND","tag":"EnumValue","value":1},{"name":"SEC_SYS_COMBAT","tag":"EnumValue","value":2}],"name":"ESecurityGateResponseType","tag":"Enum"}
+{"members":[{"name":"SuperLight","tag":"EnumValue","value":0},{"name":"Light","tag":"EnumValue","value":1},{"name":"Medium","tag":"EnumValue","value":2},{"name":"Heavy","tag":"EnumValue","value":3}],"name":"RumbleStrength","tag":"Enum"}

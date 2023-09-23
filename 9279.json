@@ -1,0 +1,1 @@
+{"members":[{"name":"PurchaseFailed","tag":"EnumValue","value":0},{"name":"PurchaseDisabled","tag":"EnumValue","value":1},{"name":"InstallFailed","tag":"EnumValue","value":2},{"name":"InstallRequestFailed","tag":"EnumValue","value":3},{"name":"InstallDisabled","tag":"EnumValue","value":4}],"name":"ExpansionErrorType","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Inactive","tag":"EnumValue","value":0},{"name":"Activating","tag":"EnumValue","value":1},{"name":"Active","tag":"EnumValue","value":2},{"name":"Destroyed","tag":"EnumValue","value":3},{"name":"Hacked","tag":"EnumValue","value":4}],"name":"ECentaurShieldState","tag":"Enum"}

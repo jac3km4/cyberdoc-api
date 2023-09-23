@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Active","tag":"EnumValue","value":1},{"name":"Searching","tag":"EnumValue","value":2},{"name":"Blinking","tag":"EnumValue","value":3}],"name":"EStarState","tag":"Enum"}

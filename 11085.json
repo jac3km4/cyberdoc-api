@@ -1,0 +1,1 @@
+{"members":[{"name":"EQ","tag":"EnumValue","value":0},{"name":"NE","tag":"EnumValue","value":1},{"name":"GT","tag":"EnumValue","value":2},{"name":"GE","tag":"EnumValue","value":3},{"name":"LT","tag":"EnumValue","value":4},{"name":"LE","tag":"EnumValue","value":5}],"name":"AssertType","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"SingleThread","tag":"EnumValue","value":0},{"name":"MultiThread","tag":"EnumValue","value":1},{"name":"Contact","tag":"EnumValue","value":2},{"name":"Fake_ShowAll","tag":"EnumValue","value":3}],"name":"MessengerContactType","tag":"Enum"}

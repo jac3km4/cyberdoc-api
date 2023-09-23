@@ -1,0 +1,1 @@
+{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"DoNotNotify","tag":"EnumValue","value":1},{"name":"Notify","tag":"EnumValue","value":2}],"name":"JournalNotifyOption","tag":"Enum"}

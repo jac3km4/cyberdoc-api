@@ -1,0 +1,1 @@
+{"members":[{"name":"ToggleCamera","tag":"EnumValue","value":0},{"name":"ExitVehicle","tag":"EnumValue","value":1},{"name":"Done","tag":"EnumValue","value":2}],"name":"PlayerChangeCameraAndLeaveVehiclePhase","tag":"Enum"}

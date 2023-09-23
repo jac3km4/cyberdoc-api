@@ -1,0 +1,1 @@
+{"members":[{"name":"Ranged","tag":"EnumValue","value":0},{"name":"Melee","tag":"EnumValue","value":1},{"name":"Throwable","tag":"EnumValue","value":2},{"name":"CyberwareWeapon","tag":"EnumValue","value":3},{"name":"CyberwareRangedWeapon","tag":"EnumValue","value":4}],"name":"UIInventoryItemWeaponBarsType","tag":"Enum"}

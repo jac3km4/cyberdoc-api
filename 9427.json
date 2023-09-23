@@ -1,0 +1,1 @@
+{"members":[{"name":"Call","tag":"EnumValue","value":0},{"name":"IncomingCall","tag":"EnumValue","value":1},{"name":"Contacts","tag":"EnumValue","value":2},{"name":"SmsMessenger","tag":"EnumValue","value":3},{"name":"Notifications","tag":"EnumValue","value":4},{"name":"None","tag":"EnumValue","value":5}],"name":"gameuiActivePhoneElement","tag":"Enum"}

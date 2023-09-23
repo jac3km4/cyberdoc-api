@@ -1,0 +1,1 @@
+{"members":[{"name":"Pooled","tag":"EnumValue","value":0},{"name":"Intro","tag":"EnumValue","value":1},{"name":"Filling","tag":"EnumValue","value":2},{"name":"Outro","tag":"EnumValue","value":3}],"name":"ECooldownIndicatorState","tag":"Enum"}

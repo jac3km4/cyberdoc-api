@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Melee","tag":"EnumValue","value":1},{"name":"Close","tag":"EnumValue","value":2},{"name":"Medium","tag":"EnumValue","value":3},{"name":"Far","tag":"EnumValue","value":4},{"name":"Extreme","tag":"EnumValue","value":5}],"name":"EAISquadRing","tag":"Enum"}

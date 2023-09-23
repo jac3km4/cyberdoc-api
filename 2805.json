@@ -1,0 +1,1 @@
+{"members":[{"name":"NoLooping","tag":"EnumValue","value":0},{"name":"Bounce","tag":"EnumValue","value":1},{"name":"Repeat","tag":"EnumValue","value":2}],"name":"gameMovingPlatformLoopType","tag":"Enum"}

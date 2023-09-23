@@ -1,0 +1,1 @@
+{"members":[{"name":"NOMINAL","tag":"EnumValue","value":0},{"name":"MALFUNCTIONING","tag":"EnumValue","value":1},{"name":"BROKEN","tag":"EnumValue","value":2},{"name":"DESTROYED","tag":"EnumValue","value":3}],"name":"EDeviceDurabilityState","tag":"Enum"}

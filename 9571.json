@@ -1,0 +1,1 @@
+{"members":[{"name":"Item","tag":"EnumValue","value":0},{"name":"Cyberdeck","tag":"EnumValue","value":1},{"name":"Program","tag":"EnumValue","value":2},{"name":"Count","tag":"EnumValue","value":3},{"name":"Invalid","tag":"EnumValue","value":4}],"name":"RarityItemType","tag":"Enum"}

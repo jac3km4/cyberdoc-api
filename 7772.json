@@ -1,1 +1,1 @@
-{"members":[{"name":"Relaxed","tag":"EnumValue","value":0},{"name":"Aware","tag":"EnumValue","value":1},{"name":"Alerted","tag":"EnumValue","value":2},{"name":"Combat","tag":"EnumValue","value":3}],"name":"gameEnemyStealthAwarenessState","tag":"Enum"}
+{"members":[{"name":"IDLE","tag":"EnumValue","value":0},{"name":"INTRO_RADIO","tag":"EnumValue","value":1},{"name":"HACK_LOOP","tag":"EnumValue","value":2}],"name":"EPreventionHackLoopState","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"DEFAULT","tag":"EnumValue","value":0},{"name":"REGISTRATION","tag":"EnumValue","value":1},{"name":"UNREGISTRATION","tag":"EnumValue","value":2}],"name":"SignalType","tag":"Enum"}

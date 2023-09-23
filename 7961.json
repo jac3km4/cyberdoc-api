@@ -1,0 +1,1 @@
+{"members":[{"name":"Both","tag":"EnumValue","value":0},{"name":"Device","tag":"EnumValue","value":1},{"name":"NPC","tag":"EnumValue","value":2},{"name":"Count","tag":"EnumValue","value":3},{"name":"Invalid","tag":"EnumValue","value":4}],"name":"gamedataMinigameTrapType","tag":"Enum"}

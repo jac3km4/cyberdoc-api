@@ -1,0 +1,1 @@
+{"members":[{"name":"Stopped","tag":"EnumValue","value":0},{"name":"Paused","tag":"EnumValue","value":1},{"name":"MovingUp","tag":"EnumValue","value":2},{"name":"MovingDown","tag":"EnumValue","value":3}],"name":"gamePlatformMovementState","tag":"Enum"}

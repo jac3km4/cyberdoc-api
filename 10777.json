@@ -1,0 +1,1 @@
+{"members":[{"name":"DISABLED","tag":"EnumValue","value":-2},{"name":"UNPOWERED","tag":"EnumValue","value":-1},{"name":"OFF","tag":"EnumValue","value":0},{"name":"ON","tag":"EnumValue","value":1},{"name":"INVALID","tag":"EnumValue","value":2}],"name":"EDeviceStatus","tag":"Enum"}

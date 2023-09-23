@@ -1,0 +1,1 @@
+{"members":[{"name":"Forward","tag":"EnumValue","value":0},{"name":"Right","tag":"EnumValue","value":1},{"name":"Back","tag":"EnumValue","value":2},{"name":"Left","tag":"EnumValue","value":3}],"name":"meleeMoveDirection","tag":"Enum"}

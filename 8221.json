@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Surface","tag":"EnumValue","value":1},{"name":"Diving","tag":"EnumValue","value":2},{"name":"Climbing","tag":"EnumValue","value":3}],"name":"gamePSMSwimming","tag":"Enum"}

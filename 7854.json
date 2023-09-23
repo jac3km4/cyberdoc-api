@@ -1,1 +1,1 @@
-{"members":[{"name":"ApplyOnlyActiveSlot","tag":"EnumValue","value":0},{"name":"ApplyActiveSlotAndConsumables","tag":"EnumValue","value":1}],"name":"ERadialMode","tag":"Enum"}
+{"members":[{"name":"Source","tag":"EnumValue","value":0},{"name":"Target","tag":"EnumValue","value":1},{"name":"World","tag":"EnumValue","value":2},{"name":"Count","tag":"EnumValue","value":3},{"name":"Invalid","tag":"EnumValue","value":4}],"name":"gamedataEffectorTimeDilationDriver","tag":"Enum"}

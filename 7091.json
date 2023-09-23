@@ -1,0 +1,1 @@
+{"members":[{"name":"Cool","tag":"EnumValue","value":0},{"name":"Netrunner","tag":"EnumValue","value":1},{"name":"Reflexes","tag":"EnumValue","value":2},{"name":"Solo","tag":"EnumValue","value":3},{"name":"Techie","tag":"EnumValue","value":4},{"name":"Count","tag":"EnumValue","value":5},{"name":"Invalid","tag":"EnumValue","value":6}],"name":"gamedataPlayerBuild","tag":"Enum"}

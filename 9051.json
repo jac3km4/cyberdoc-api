@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Features","tag":"EnumValue","value":1},{"name":"ThankYou","tag":"EnumValue","value":2},{"name":"Reloading","tag":"EnumValue","value":3},{"name":"PreOrder","tag":"EnumValue","value":4}],"name":"ExpansionPopupType","tag":"Enum"}

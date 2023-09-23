@@ -1,0 +1,1 @@
+{"members":[{"name":"READY","tag":"EnumValue","value":0},{"name":"SCANNING","tag":"EnumValue","value":1},{"name":"THREAT_DETECTED","tag":"EnumValue","value":2}],"name":"ESecurityGateStatus","tag":"Enum"}

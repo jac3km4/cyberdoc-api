@@ -1,0 +1,1 @@
+{"members":[{"name":"Unknown","tag":"EnumValue","value":0},{"name":"Idle","tag":"EnumValue","value":1},{"name":"Loop","tag":"EnumValue","value":2},{"name":"Open","tag":"EnumValue","value":3},{"name":"Result","tag":"EnumValue","value":4}],"name":"OpeningGateScreenState","tag":"Enum"}

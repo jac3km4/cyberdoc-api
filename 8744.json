@@ -1,1 +1,1 @@
-{"members":[{"name":"UNINITIALIZED","tag":"EnumValue","value":0},{"name":"TRESPASSING","tag":"EnumValue","value":1},{"name":"REPRIMAND","tag":"EnumValue","value":2},{"name":"COMBAT","tag":"EnumValue","value":3}],"name":"BlacklistReason","tag":"Enum"}
+{"members":[{"name":"DontToggleIfLocked","tag":"EnumValue","value":0},{"name":"Lock","tag":"EnumValue","value":1},{"name":"Unlock","tag":"EnumValue","value":2}],"name":"VehicleQuestEngineLockState","tag":"Enum"}

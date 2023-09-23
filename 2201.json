@@ -1,0 +1,1 @@
+{"members":[{"name":"LEFT_ARM","tag":"EnumValue","value":0},{"name":"RIGHT_ARM","tag":"EnumValue","value":1},{"name":"LEFT_LEG","tag":"EnumValue","value":2},{"name":"RIGHT_LEG","tag":"EnumValue","value":3},{"name":"HEAD","tag":"EnumValue","value":4},{"name":"BODY","tag":"EnumValue","value":5}],"name":"gameDismBodyPart","tag":"Enum"}

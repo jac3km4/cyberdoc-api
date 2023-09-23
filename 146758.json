@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":54403,"name":"inkLogicController"},{"base":null,"index":22196,"name":"inkILogicController"},{"base":null,"index":11333,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"MinigameDynObject","tag":"Class","visibility":"public"}

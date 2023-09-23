@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Accepted","tag":"EnumValue","value":1},{"name":"Rejected","tag":"EnumValue","value":2},{"name":"NeedsConfirmation","tag":"EnumValue","value":3},{"name":"NeedsRestart","tag":"EnumValue","value":4}],"name":"ConfigChangeReason","tag":"Enum"}

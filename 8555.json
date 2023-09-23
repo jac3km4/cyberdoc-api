@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"StillInObstacle","tag":"EnumValue","value":1},{"name":"GeometryDiverged","tag":"EnumValue","value":2},{"name":"Failure","tag":"EnumValue","value":3}],"name":"worldgeometryProbingStatus","tag":"Enum"}

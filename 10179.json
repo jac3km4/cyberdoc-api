@@ -1,0 +1,1 @@
+{"members":[{"name":"On","tag":"EnumValue","value":0},{"name":"Off","tag":"EnumValue","value":1},{"name":"Bars","tag":"EnumValue","value":2},{"name":"Green","tag":"EnumValue","value":3},{"name":"Alarm","tag":"EnumValue","value":4},{"name":"Glitch","tag":"EnumValue","value":5}],"name":"DoorProximityDetectorAppearanceStateType","tag":"Enum"}

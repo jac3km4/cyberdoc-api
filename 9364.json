@@ -1,0 +1,1 @@
+{"members":[{"name":"Available","tag":"EnumValue","value":0},{"name":"Blocked","tag":"EnumValue","value":1},{"name":"Invisible","tag":"EnumValue","value":2}],"name":"EProgressBarState","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"New","tag":"EnumValue","value":1},{"name":"Owned","tag":"EnumValue","value":2},{"name":"Locked","tag":"EnumValue","value":3}],"name":"EVehicleOfferState","tag":"Enum"}

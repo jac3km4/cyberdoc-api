@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":11485,"name":"Event"},{"base":null,"index":11333,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"ActivateTPPRepresentationEvent","tag":"Class","visibility":"public"}

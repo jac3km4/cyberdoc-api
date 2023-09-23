@@ -1,1 +1,1 @@
-{"members":[{"name":"ENTER","tag":"EnumValue","value":0},{"name":"EXIT","tag":"EnumValue","value":1}],"name":"ETriggerOperationType","tag":"Enum"}
+{"members":[{"name":"OFF","tag":"EnumValue","value":0},{"name":"RUNNING","tag":"EnumValue","value":1},{"name":"MALFUNCTIONING","tag":"EnumValue","value":2},{"name":"ON","tag":"EnumValue","value":3}],"name":"VisualState","tag":"Enum"}

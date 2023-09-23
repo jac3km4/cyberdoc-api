@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Instant","tag":"EnumValue","value":1},{"name":"FirstEquip","tag":"EnumValue","value":2},{"name":"HACK_ForceInstantEquip","tag":"EnumValue","value":3}],"name":"gameEquipAnimationType","tag":"Enum"}

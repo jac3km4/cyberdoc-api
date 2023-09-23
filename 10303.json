@@ -1,0 +1,1 @@
+{"members":[{"name":"EWNL_PowerStreetRifle","tag":"EnumValue","value":0},{"name":"EWNL_TechStreetShotgun","tag":"EnumValue","value":1},{"name":"EWNL_PowerCorpHandgun","tag":"EnumValue","value":2},{"name":"EWNL_SmartCorpRifle","tag":"EnumValue","value":3},{"name":"EWNL_PowerCorpHandgunJackie","tag":"EnumValue","value":4}],"name":"EWeaponNamesList","tag":"Enum"}

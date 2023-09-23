@@ -1,0 +1,1 @@
+{"members":[{"name":"Connecting","tag":"EnumValue","value":0},{"name":"Disconnecting","tag":"EnumValue","value":1},{"name":"Holocall","tag":"EnumValue","value":2},{"name":"Audiocall","tag":"EnumValue","value":3}],"name":"EHudAvatarMode","tag":"Enum"}

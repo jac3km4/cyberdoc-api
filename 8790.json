@@ -1,1 +1,1 @@
-{"members":[{"name":"Init","tag":"EnumValue","value":0},{"name":"Phase1","tag":"EnumValue","value":1},{"name":"Phase2","tag":"EnumValue","value":2}],"name":"EMissileRainPhase","tag":"Enum"}
+{"members":[{"name":"Normal","tag":"EnumValue","value":0},{"name":"Defeat","tag":"EnumValue","value":1}],"name":"gameKillType","tag":"Enum"}

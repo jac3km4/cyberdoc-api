@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"GetDamageSystemLogFlags;","parameters":[],"returnType":{"kind":"Prim","name":"Int64","tag":"Type"},"source":"core/systems/gameInstance.script","tag":"Function","visibility":"public"}

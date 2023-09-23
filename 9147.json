@@ -1,1 +1,1 @@
-{"members":[{"name":"Off","tag":"EnumValue","value":0},{"name":"SpecialAttacks","tag":"EnumValue","value":1},{"name":"AllAttacks","tag":"EnumValue","value":2}],"name":"EMoveAssistLevel","tag":"Enum"}
+{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"Detected","tag":"EnumValue","value":1},{"name":"StimEvent","tag":"EnumValue","value":2},{"name":"BehaviorCombatCheck","tag":"EnumValue","value":3},{"name":"BehaviorCombatTrigger","tag":"EnumValue","value":4}],"name":"EReactLogSource","tag":"Enum"}

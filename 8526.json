@@ -1,0 +1,1 @@
+{"members":[{"name":"Base","tag":"EnumValue","value":0},{"name":"Near","tag":"EnumValue","value":1},{"name":"Disengaging","tag":"EnumValue","value":2}],"name":"LifetimeStatus","tag":"Enum"}

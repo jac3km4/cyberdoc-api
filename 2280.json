@@ -1,0 +1,1 @@
+{"members":[{"name":"Normal","tag":"EnumValue","value":0},{"name":"InternalWeakSpot","tag":"EnumValue","value":1},{"name":"ExternalWeakSpot","tag":"EnumValue","value":2},{"name":"ProtectionLayer","tag":"EnumValue","value":3}],"name":"HitShape_Type","tag":"Enum"}

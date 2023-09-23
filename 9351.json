@@ -1,0 +1,1 @@
+{"members":[{"name":"New","tag":"EnumValue","value":0},{"name":"Quest","tag":"EnumValue","value":1},{"name":"Money","tag":"EnumValue","value":2},{"name":"Equipped","tag":"EnumValue","value":3},{"name":"Owned","tag":"EnumValue","value":4},{"name":"Buyback","tag":"EnumValue","value":5},{"name":"DLCNew","tag":"EnumValue","value":6}],"name":"ItemLabelType","tag":"Enum"}

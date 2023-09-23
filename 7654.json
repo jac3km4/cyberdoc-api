@@ -1,0 +1,1 @@
+{"members":[{"name":"Idle","tag":"EnumValue","value":0},{"name":"EnRoute","tag":"EnumValue","value":1},{"name":"AlreadySummoned","tag":"EnumValue","value":2},{"name":"PathfindingFailed","tag":"EnumValue","value":3},{"name":"Arrived","tag":"EnumValue","value":4}],"name":"vehicleSummonState","tag":"Enum"}

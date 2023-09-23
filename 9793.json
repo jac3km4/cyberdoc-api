@@ -1,0 +1,1 @@
+{"members":[{"name":"BasicAccess","tag":"EnumValue","value":0},{"name":"ExtraPlayerProgram","tag":"EnumValue","value":1},{"name":"ExtraServerProgram","tag":"EnumValue","value":2},{"name":"EnemyProgram","tag":"EnumValue","value":3},{"name":"EnemyLockNetwork","tag":"EnumValue","value":4}],"name":"ProgramType","tag":"Enum"}

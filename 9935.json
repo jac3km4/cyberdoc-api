@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"BarCapacity","tag":"EnumValue","value":1},{"name":"BarArmor","tag":"EnumValue","value":2},{"name":"SlotSkeleton","tag":"EnumValue","value":3},{"name":"SlotHands","tag":"EnumValue","value":4}],"name":"RipperdocHoverState","tag":"Enum"}

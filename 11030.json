@@ -1,0 +1,1 @@
+{"members":[{"name":"Off","tag":"EnumValue","value":0},{"name":"Light","tag":"EnumValue","value":1},{"name":"Standard","tag":"EnumValue","value":2},{"name":"Heavy","tag":"EnumValue","value":3}],"name":"EAimAssistLevel","tag":"Enum"}

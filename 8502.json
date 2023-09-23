@@ -1,0 +1,1 @@
+{"members":[{"name":"Tutorial_720x405","tag":"EnumValue","value":0},{"name":"Tutorial_1024x576","tag":"EnumValue","value":1},{"name":"Tutorial_1280x720","tag":"EnumValue","value":2},{"name":"Tutorial_1360x768","tag":"EnumValue","value":3},{"name":"Unknown","tag":"EnumValue","value":4}],"name":"VideoType","tag":"Enum"}

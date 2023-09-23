@@ -1,0 +1,1 @@
+{"members":[{"name":"Active","tag":"EnumValue","value":0},{"name":"SingleActive","tag":"EnumValue","value":1},{"name":"Direct","tag":"EnumValue","value":2},{"name":"Remove","tag":"EnumValue","value":3},{"name":"Single","tag":"EnumValue","value":4}],"name":"EBroadcasteingType","tag":"Enum"}

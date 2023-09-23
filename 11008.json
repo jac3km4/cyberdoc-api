@@ -1,0 +1,1 @@
+{"members":[{"name":"Killed","tag":"EnumValue","value":0},{"name":"Finished","tag":"EnumValue","value":1},{"name":"Defeated","tag":"EnumValue","value":2},{"name":"Unconscious","tag":"EnumValue","value":3}],"name":"EDownedType","tag":"Enum"}

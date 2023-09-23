@@ -1,0 +1,1 @@
+{"members":[{"name":"SEALED","tag":"EnumValue","value":-2},{"name":"LOCKED","tag":"EnumValue","value":-1},{"name":"CLOSED","tag":"EnumValue","value":0},{"name":"OPENED","tag":"EnumValue","value":1}],"name":"EDoorStatus","tag":"Enum"}

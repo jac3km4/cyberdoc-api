@@ -1,0 +1,1 @@
+{"members":[{"name":"Unknown","tag":"EnumValue","value":0},{"name":"InProgress","tag":"EnumValue","value":1},{"name":"Succeeded","tag":"EnumValue","value":2},{"name":"Failed","tag":"EnumValue","value":3}],"name":"HackingMinigameState","tag":"Enum"}

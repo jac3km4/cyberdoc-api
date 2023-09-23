@@ -1,0 +1,1 @@
+{"members":[{"name":"Basic","tag":"EnumValue","value":0},{"name":"None","tag":"EnumValue","value":1},{"name":"Stoppable","tag":"EnumValue","value":2},{"name":"Unstoppable","tag":"EnumValue","value":3},{"name":"Count","tag":"EnumValue","value":4},{"name":"Invalid","tag":"EnumValue","value":5}],"name":"gamedataStatusEffectAIBehaviorType","tag":"Enum"}

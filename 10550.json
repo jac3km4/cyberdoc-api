@@ -1,0 +1,1 @@
+{"members":[{"name":"Phase1","tag":"EnumValue","value":0},{"name":"Phase2","tag":"EnumValue","value":1},{"name":"Phase3","tag":"EnumValue","value":2},{"name":"Phase4","tag":"EnumValue","value":3},{"name":"Phase5","tag":"EnumValue","value":4},{"name":"Invalid","tag":"EnumValue","value":5}],"name":"ENPCPhaseState","tag":"Enum"}

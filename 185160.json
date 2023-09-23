@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":15364,"name":"GrenadeDeliveryMethod_Record"},{"base":null,"index":12352,"name":"TweakDBRecord"},{"base":null,"index":11333,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"RegularGDM_Record","tag":"Class","visibility":"public"}

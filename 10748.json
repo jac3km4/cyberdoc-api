@@ -1,0 +1,1 @@
+{"members":[{"name":"UNINITIALIZED","tag":"EnumValue","value":0},{"name":"ON_HOLD","tag":"EnumValue","value":1},{"name":"FOR_IMMEDIATE_TRIGGER","tag":"EnumValue","value":2},{"name":"TRIGGERED","tag":"EnumValue","value":3}],"name":"PackageStatus","tag":"Enum"}

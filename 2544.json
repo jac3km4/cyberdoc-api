@@ -1,0 +1,1 @@
+{"members":[{"name":"Idle","tag":"EnumValue","value":0},{"name":"Starting","tag":"EnumValue","value":1},{"name":"InInteraction","tag":"EnumValue","value":2},{"name":"Finishing","tag":"EnumValue","value":3},{"name":"Canceling","tag":"EnumValue","value":4}],"name":"gameinteractionsReactionState","tag":"Enum"}

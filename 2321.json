@@ -1,0 +1,1 @@
+{"members":[{"name":"True","tag":"EnumValue","value":0},{"name":"False","tag":"EnumValue","value":1},{"name":"Failure","tag":"EnumValue","value":2}],"name":"AIbehaviorConditionOutcomes","tag":"Enum"}

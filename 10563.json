@@ -1,0 +1,1 @@
+{"members":[{"name":"Close","tag":"EnumValue","value":0},{"name":"Medium","tag":"EnumValue","value":1},{"name":"Long","tag":"EnumValue","value":2},{"name":"Undefined","tag":"EnumValue","value":3}],"name":"EAIShootingPatternRange","tag":"Enum"}

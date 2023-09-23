@@ -1,0 +1,1 @@
+{"members":[{"name":"Normal","tag":"EnumValue","value":0},{"name":"DoT","tag":"EnumValue","value":1},{"name":"None","tag":"EnumValue","value":2}],"name":"GrenadeDamageType","tag":"Enum"}

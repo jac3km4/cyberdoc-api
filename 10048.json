@@ -1,0 +1,1 @@
+{"members":[{"name":"NONE","tag":"EnumValue","value":0},{"name":"INTERACTIVE","tag":"EnumValue","value":1},{"name":"AUTOMATIC","tag":"EnumValue","value":2},{"name":"PHYSICAL","tag":"EnumValue","value":3},{"name":"REMOTELY_CONTROLLED","tag":"EnumValue","value":4}],"name":"EDoorType","tag":"Enum"}

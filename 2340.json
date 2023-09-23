@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"ClosestToOwner","tag":"EnumValue","value":1},{"name":"ClosestToTarget","tag":"EnumValue","value":2},{"name":"FurthestFromTarget","tag":"EnumValue","value":3}],"name":"moveLineOfSightPointPreference","tag":"Enum"}

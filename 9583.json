@@ -1,0 +1,1 @@
+{"members":[{"name":"LeftCenter","tag":"EnumValue","value":0},{"name":"RightCenter","tag":"EnumValue","value":1},{"name":"LeftTop","tag":"EnumValue","value":2},{"name":"RightTop","tag":"EnumValue","value":3}],"name":"gameuiETooltipPlacement","tag":"Enum"}

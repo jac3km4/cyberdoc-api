@@ -1,0 +1,1 @@
+{"members":[{"name":"Visible","tag":"EnumValue","value":0},{"name":"ClearlyVisible","tag":"EnumValue","value":1},{"name":"Frustum","tag":"EnumValue","value":2},{"name":"Complete","tag":"EnumValue","value":3},{"name":"None","tag":"EnumValue","value":4}],"name":"TargetingSet","tag":"Enum"}

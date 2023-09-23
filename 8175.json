@@ -1,0 +1,1 @@
+{"members":[{"name":"Rested","tag":"EnumValue","value":0},{"name":"Fatigued","tag":"EnumValue","value":1},{"name":"Exhausted","tag":"EnumValue","value":2}],"name":"gamePSMStamina","tag":"Enum"}

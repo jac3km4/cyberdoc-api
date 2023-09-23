@@ -1,0 +1,1 @@
+{"members":[{"name":"NONE","tag":"EnumValue","value":0},{"name":"INPROGRESS","tag":"EnumValue","value":1},{"name":"COMPLETE","tag":"EnumValue","value":2}],"name":"ELightSequenceStage","tag":"Enum"}

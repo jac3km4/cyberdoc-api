@@ -1,0 +1,1 @@
+{"members":[{"name":"Off","tag":"EnumValue","value":0},{"name":"SpecialAttacks","tag":"EnumValue","value":1},{"name":"AllAttacks","tag":"EnumValue","value":2}],"name":"EMoveAssistLevel","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"ControlHack","tag":"EnumValue","value":0},{"name":"CovertHack","tag":"EnumValue","value":1},{"name":"DamageHack","tag":"EnumValue","value":2},{"name":"VehicleHack","tag":"EnumValue","value":3},{"name":"Count","tag":"EnumValue","value":4},{"name":"Invalid","tag":"EnumValue","value":5}],"name":"gamedataDeviceHackCategory","tag":"Enum"}

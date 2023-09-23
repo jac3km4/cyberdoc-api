@@ -1,0 +1,1 @@
+{"members":[{"name":"UnlockAllVehicles","tag":"EnumValue","value":0},{"name":"ShowAllPoiMappins","tag":"EnumValue","value":1},{"name":"DiscoverAllPoiMappins","tag":"EnumValue","value":2}],"name":"CustomButtonType","tag":"Enum"}

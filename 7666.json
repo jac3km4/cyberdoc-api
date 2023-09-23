@@ -1,0 +1,1 @@
+{"members":[{"name":"FrontTire","tag":"EnumValue","value":0},{"name":"RearTire","tag":"EnumValue","value":1},{"name":"Other","tag":"EnumValue","value":2}],"name":"vehicleDisabledReason","tag":"Enum"}

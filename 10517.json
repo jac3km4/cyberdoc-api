@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Evaluate","tag":"EnumValue","value":1},{"name":"OrderFail","tag":"EnumValue","value":2},{"name":"OrderDone","tag":"EnumValue","value":3},{"name":"OrderRevoked","tag":"EnumValue","value":4}],"name":"EAITicketStatus","tag":"Enum"}

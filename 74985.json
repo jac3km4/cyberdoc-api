@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"TSF_EnemyNPC;","parameters":[],"returnType":{"index":123362,"kind":"Class","name":"TargetSearchFilter","tag":"Type"},"source":"core/gameplay/targetingSearchFilter.script","tag":"Function","visibility":"public"}

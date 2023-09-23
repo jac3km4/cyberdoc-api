@@ -1,1 +1,1 @@
-{"bases":[{"base":null,"index":9513,"name":"IGameSystem"},{"base":null,"index":9320,"name":"IScriptable"}],"fields":[],"isAbstract":true,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"ILevelAssignmentSystem","tag":"Class","visibility":"public"}
+{"members":[{"name":"GREEN","tag":"EnumValue","value":0},{"name":"RED","tag":"EnumValue","value":1},{"name":"YELLOW","tag":"EnumValue","value":2},{"name":"INVALID","tag":"EnumValue","value":3}],"name":"worldTrafficLightColor","tag":"Enum"}

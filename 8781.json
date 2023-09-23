@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Individual","tag":"EnumValue","value":1},{"name":"Accumulated","tag":"EnumValue","value":2},{"name":"Both","tag":"EnumValue","value":3}],"name":"gameuiDamageDigitsStickingMode","tag":"Enum"}

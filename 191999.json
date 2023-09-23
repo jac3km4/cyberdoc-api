@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"GetInvalidVisionBlockerID;","parameters":[],"returnType":{"kind":"Prim","name":"Uint32","tag":"Type"},"source":"core/systems/vision/visionBlockersRegistrar.script","tag":"Function","visibility":"public"}

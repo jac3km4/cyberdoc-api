@@ -1,0 +1,1 @@
+{"members":[{"name":"MorningPreset","tag":"EnumValue","value":0},{"name":"EveningPreset","tag":"EnumValue","value":1},{"name":"NightPreset","tag":"EnumValue","value":2}],"name":"ESmartHousePreset","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"bases":[],"fields":[{"isConst":false,"isEdit":false,"isInline":false,"isNative":false,"isPersistent":false,"isRep":false,"name":"startingPage","tag":"Field","type":{"kind":"Prim","name":"String","tag":"Type"}}],"isAbstract":false,"isFinal":false,"isNative":false,"isStruct":true,"methods":[],"name":"SInternetData","tag":"Class","visibility":"public"}

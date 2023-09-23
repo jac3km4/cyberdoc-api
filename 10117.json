@@ -1,0 +1,1 @@
+{"members":[{"name":"Idle","tag":"EnumValue","value":0},{"name":"Work","tag":"EnumValue","value":1},{"name":"Distract","tag":"EnumValue","value":2}],"name":"RoboticArmStateType","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"DEFAULT","tag":"EnumValue","value":0},{"name":"HOLSTER","tag":"EnumValue","value":1},{"name":"WEAPON","tag":"EnumValue","value":2},{"name":"COMBAT_CYBERWARE","tag":"EnumValue","value":3},{"name":"TOOLTIP","tag":"EnumValue","value":4},{"name":"MISC","tag":"EnumValue","value":5}],"name":"SlotType","tag":"Enum"}

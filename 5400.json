@@ -1,0 +1,1 @@
+{"members":[{"name":"Reset","tag":"EnumValue","value":0},{"name":"DefaultColor","tag":"EnumValue","value":1},{"name":"Police","tag":"EnumValue","value":2},{"name":"VehicleHealth_Low","tag":"EnumValue","value":3},{"name":"VehicleHealth_VeryLow","tag":"EnumValue","value":4},{"name":"Quest","tag":"EnumValue","value":5}],"name":"ELightState","tag":"Enum"}

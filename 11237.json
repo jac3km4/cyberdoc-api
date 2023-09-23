@@ -1,0 +1,1 @@
+{"members":[{"name":"IMPOSSIBLE","tag":"EnumValue","value":0},{"name":"HARD","tag":"EnumValue","value":1},{"name":"NORMAL","tag":"EnumValue","value":2},{"name":"EASY","tag":"EnumValue","value":3},{"name":"TRASH","tag":"EnumValue","value":4}],"name":"gameEPowerDifferential","tag":"Enum"}

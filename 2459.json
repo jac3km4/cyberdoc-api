@@ -1,0 +1,1 @@
+{"members":[{"name":"RPl_Scene","tag":"EnumValue","value":0},{"name":"RPl_Background","tag":"EnumValue","value":1},{"name":"RPl_Weapon","tag":"EnumValue","value":2}],"name":"ERenderingPlane","tag":"Enum"}

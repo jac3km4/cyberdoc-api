@@ -1,0 +1,1 @@
+{"members":[{"name":"NONE","tag":"EnumValue","value":-1},{"name":"CLOSED","tag":"EnumValue","value":0},{"name":"WAKEN","tag":"EnumValue","value":1},{"name":"OPEN","tag":"EnumValue","value":2}],"name":"ESensorDeviceWakeState","tag":"Enum"}

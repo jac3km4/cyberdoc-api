@@ -1,0 +1,1 @@
+{"members":[{"name":"Normal","tag":"EnumValue","value":0},{"name":"WallLeft","tag":"EnumValue","value":1},{"name":"WallRight","tag":"EnumValue","value":2}],"name":"gameaudioeventsSurfaceDirection","tag":"Enum"}

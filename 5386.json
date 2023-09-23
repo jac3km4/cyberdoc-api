@@ -1,1 +1,1 @@
-{"members":[{"name":"All","tag":"EnumValue","value":0},{"name":"Puppets","tag":"EnumValue","value":1},{"name":"Vehicles","tag":"EnumValue","value":2},{"name":"Count","tag":"EnumValue","value":3},{"name":"Invalid","tag":"EnumValue","value":4}],"name":"gamedataStimTargets","tag":"Enum"}
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Object","tag":"EnumValue","value":1},{"name":"Vehicle","tag":"EnumValue","value":2},{"name":"Puppet","tag":"EnumValue","value":3},{"name":"Platform","tag":"EnumValue","value":4}],"name":"gameMountingObjectType","tag":"Enum"}

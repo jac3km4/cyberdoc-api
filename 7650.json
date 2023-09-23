@@ -1,0 +1,1 @@
+{"members":[{"name":"NoVehiclesAvailable","tag":"EnumValue","value":0},{"name":"SummonAvailable","tag":"EnumValue","value":1},{"name":"SummonDisabled","tag":"EnumValue","value":2}],"name":"vehicleGarageState","tag":"Enum"}

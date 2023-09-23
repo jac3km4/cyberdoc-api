@@ -1,0 +1,1 @@
+{"members":[{"name":"PreProcess","tag":"EnumValue","value":0},{"name":"Process","tag":"EnumValue","value":1},{"name":"ProcessHitReaction","tag":"EnumValue","value":2},{"name":"PostProcess","tag":"EnumValue","value":3},{"name":"COUNT","tag":"EnumValue","value":4},{"name":"INVALID","tag":"EnumValue","value":5}],"name":"gameDamagePipelineStage","tag":"Enum"}

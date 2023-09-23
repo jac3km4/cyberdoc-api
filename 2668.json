@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"NoHips","tag":"EnumValue","value":1},{"name":"Horizontal","tag":"EnumValue","value":2},{"name":"HorizontalNoHips","tag":"EnumValue","value":3}],"name":"animLookAtChestMode","tag":"Enum"}

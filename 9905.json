@@ -1,0 +1,1 @@
+{"members":[{"name":"Quadracer","tag":"EnumValue","value":0},{"name":"RoachRace","tag":"EnumValue","value":1},{"name":"Shooter","tag":"EnumValue","value":2},{"name":"Tank","tag":"EnumValue","value":3},{"name":"Retros","tag":"EnumValue","value":4},{"name":"INVALID","tag":"EnumValue","value":5}],"name":"ArcadeMinigame","tag":"Enum"}

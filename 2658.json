@@ -1,0 +1,1 @@
+{"members":[{"name":"Narrow","tag":"EnumValue","value":0},{"name":"Normal","tag":"EnumValue","value":1},{"name":"Wide","tag":"EnumValue","value":2},{"name":"None","tag":"EnumValue","value":3}],"name":"animLookAtLimitDegreesType","tag":"Enum"}

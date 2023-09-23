@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Reaction","tag":"EnumValue","value":1},{"name":"StatusEffect","tag":"EnumValue","value":2},{"name":"Undefined","tag":"EnumValue","value":3}],"name":"AIactionParamsPackageTypes","tag":"Enum"}

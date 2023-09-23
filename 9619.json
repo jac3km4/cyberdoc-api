@@ -1,0 +1,1 @@
+{"members":[{"name":"FromNextControlPoint","tag":"EnumValue","value":0},{"name":"FromClosestPoint","tag":"EnumValue","value":1},{"name":"FromBeginning","tag":"EnumValue","value":2}],"name":"AIPatrolContinuationPolicy","tag":"Enum"}

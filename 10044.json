@@ -1,0 +1,1 @@
+{"members":[{"name":"NONE","tag":"EnumValue","value":0},{"name":"DEAFENED","tag":"EnumValue","value":1},{"name":"SUPRESS_NOISE","tag":"EnumValue","value":2}],"name":"ESoundStatusEffects","tag":"Enum"}

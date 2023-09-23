@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":13758,"name":"WidgetDefinition_Record"},{"base":null,"index":12352,"name":"TweakDBRecord"},{"base":null,"index":11333,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"ThumbnailWidgetDefinition_Record","tag":"Class","visibility":"public"}

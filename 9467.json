@@ -1,0 +1,1 @@
+{"members":[{"name":"Device","tag":"EnumValue","value":0},{"name":"NPC","tag":"EnumValue","value":1},{"name":"Both","tag":"EnumValue","value":2},{"name":"AccessPoint","tag":"EnumValue","value":3}],"name":"MinigameActionType","tag":"Enum"}

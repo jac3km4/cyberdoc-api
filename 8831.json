@@ -1,0 +1,1 @@
+{"members":[{"name":"NoExit","tag":"EnumValue","value":0},{"name":"NoImpulse","tag":"EnumValue","value":1},{"name":"LowImpulse","tag":"EnumValue","value":2},{"name":"MaxImpulse","tag":"EnumValue","value":3}],"name":"vehicleCoolExitImpulseLevel","tag":"Enum"}

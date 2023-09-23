@@ -1,1 +1,1 @@
-{"members":[{"name":"Behind","tag":"EnumValue","value":0},{"name":"InFront","tag":"EnumValue","value":1}],"name":"ECompanionPositionPreset","tag":"Enum"}
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Short","tag":"EnumValue","value":1},{"name":"Long","tag":"EnumValue","value":2},{"name":"Danger","tag":"EnumValue","value":3}],"name":"MechanicalScanType","tag":"Enum"}

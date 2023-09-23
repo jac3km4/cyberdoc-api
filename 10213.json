@@ -1,0 +1,1 @@
+{"members":[{"name":"NoIssues","tag":"EnumValue","value":0},{"name":"ScannerEmpty","tag":"EnumValue","value":1},{"name":"Overcrowded","tag":"EnumValue","value":2},{"name":"TargetAlreadyScanned","tag":"EnumValue","value":3}],"name":"ESecurityGateScannerIssueType","tag":"Enum"}

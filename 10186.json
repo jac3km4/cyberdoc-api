@@ -1,0 +1,1 @@
+{"members":[{"name":"HitTriggered","tag":"EnumValue","value":0},{"name":"MissTriggered","tag":"EnumValue","value":1},{"name":"HitReceived","tag":"EnumValue","value":2},{"name":"PipelineProcessed","tag":"EnumValue","value":3},{"name":"COUNT","tag":"EnumValue","value":4},{"name":"INVALID","tag":"EnumValue","value":5}],"name":"gameDamageCallbackType","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Size","tag":"EnumValue","value":0},{"name":"Color","tag":"EnumValue","value":1},{"name":"Margin","tag":"EnumValue","value":2},{"name":"Padding","tag":"EnumValue","value":3},{"name":"Transparency","tag":"EnumValue","value":4},{"name":"Rotation","tag":"EnumValue","value":5}],"name":"inkanimPropertyType","tag":"Enum"}

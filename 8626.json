@@ -1,0 +1,1 @@
+{"members":[{"name":"DISABLED","tag":"EnumValue","value":0},{"name":"HIDDEN","tag":"EnumValue","value":1},{"name":"ASLEEP","tag":"EnumValue","value":2},{"name":"MALFUNCTIONING","tag":"EnumValue","value":3},{"name":"ON","tag":"EnumValue","value":4}],"name":"ModuleState","tag":"Enum"}

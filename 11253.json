@@ -1,0 +1,1 @@
+{"members":[{"name":"Off","tag":"EnumValue","value":0},{"name":"Regular","tag":"EnumValue","value":1},{"name":"Hard","tag":"EnumValue","value":2},{"name":"VeryHard","tag":"EnumValue","value":3},{"name":"Superhero","tag":"EnumValue","value":4},{"name":"Death","tag":"EnumValue","value":5}],"name":"LandingType","tag":"Enum"}

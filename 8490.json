@@ -1,0 +1,1 @@
+{"members":[{"name":"NoMirror","tag":"EnumValue","value":0},{"name":"Horizontal","tag":"EnumValue","value":1},{"name":"Vertical","tag":"EnumValue","value":2},{"name":"Both","tag":"EnumValue","value":3}],"name":"inkBrushMirrorType","tag":"Enum"}

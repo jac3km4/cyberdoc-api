@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Basic","tag":"EnumValue","value":1},{"name":"Stoppable","tag":"EnumValue","value":2},{"name":"Unstoppable","tag":"EnumValue","value":3}],"name":"EStatusEffectBehaviorType","tag":"Enum"}

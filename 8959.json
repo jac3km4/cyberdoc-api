@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":0},{"name":"Inventory","tag":"EnumValue","value":1},{"name":"Map","tag":"EnumValue","value":2},{"name":"Character","tag":"EnumValue","value":3},{"name":"Journal","tag":"EnumValue","value":4}],"name":"RadialHubMenuElement","tag":"Enum"}

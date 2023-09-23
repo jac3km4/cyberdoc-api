@@ -1,0 +1,1 @@
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"PickUp","tag":"EnumValue","value":1},{"name":"Carry","tag":"EnumValue","value":2},{"name":"Dispose","tag":"EnumValue","value":3},{"name":"Drop","tag":"EnumValue","value":4},{"name":"Aim","tag":"EnumValue","value":5},{"name":"Throw","tag":"EnumValue","value":6}],"name":"gamePSMBodyCarrying","tag":"Enum"}

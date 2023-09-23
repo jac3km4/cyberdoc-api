@@ -1,1 +1,1 @@
-{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"NoChange","tag":"EnumValue","value":1},{"name":"Better","tag":"EnumValue","value":2},{"name":"Worse","tag":"EnumValue","value":3}],"name":"ItemComparisonState","tag":"Enum"}
+{"members":[{"name":"Head","tag":"EnumValue","value":0},{"name":"Body","tag":"EnumValue","value":1},{"name":"Arms","tag":"EnumValue","value":2}],"name":"gameuiCharacterCustomizationPart","tag":"Enum"}

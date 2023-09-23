@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":58089,"name":"BehaviorDelegate"},{"base":null,"index":34862,"name":"BehaviorBlackboard"},{"base":null,"index":11333,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"ScriptBehaviorDelegate","tag":"Class","visibility":"public"}

@@ -1,1 +1,1 @@
-{"members":[{"name":"Bool","tag":"EnumValue","value":0},{"name":"EquipOnPlayer","tag":"EnumValue","value":1},{"name":"EquipOnNPC","tag":"EnumValue","value":2},{"name":"ExcludeRootCombination","tag":"EnumValue","value":3}],"name":"gameEStatFlags","tag":"Enum"}
+{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"LowFPS","tag":"EnumValue","value":1},{"name":"Background","tag":"EnumValue","value":2}],"name":"AIbehaviorCombatModes","tag":"Enum"}

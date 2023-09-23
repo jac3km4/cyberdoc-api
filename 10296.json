@@ -1,0 +1,1 @@
+{"members":[{"name":"CO_Lesser","tag":"EnumValue","value":0},{"name":"CO_LesserEq","tag":"EnumValue","value":1},{"name":"CO_Greater","tag":"EnumValue","value":2},{"name":"CO_GreaterEq","tag":"EnumValue","value":3},{"name":"CO_Equal","tag":"EnumValue","value":4},{"name":"CO_NotEqual","tag":"EnumValue","value":5}],"name":"ECompareOp","tag":"Enum"}

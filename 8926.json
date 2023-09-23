@@ -1,0 +1,1 @@
+{"members":[{"name":"BuyItems","tag":"EnumValue","value":0},{"name":"SellItems","tag":"EnumValue","value":1},{"name":"Train","tag":"EnumValue","value":2},{"name":"Ripperdoc","tag":"EnumValue","value":3},{"name":"RipperdocSummary","tag":"EnumValue","value":4}],"name":"EVendorMode","tag":"Enum"}

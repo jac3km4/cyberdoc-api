@@ -1,0 +1,1 @@
+{"isCallback":false,"isExec":false,"isFinal":false,"isNative":false,"isStatic":true,"name":"GetInvalidDelayID;","parameters":[],"returnType":{"index":66302,"kind":"Class","name":"DelayID","tag":"Type"},"source":"core/gameplay/delaySystem.script","tag":"Function","visibility":"public"}

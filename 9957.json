@@ -1,0 +1,1 @@
+{"members":[{"name":"NONE","tag":"EnumValue","value":0},{"name":"LOUD_ANNOUNCEMENT","tag":"EnumValue","value":1},{"name":"HALF_OPENING","tag":"EnumValue","value":2},{"name":"GLITCHING","tag":"EnumValue","value":3}],"name":"EMalfunctioningType","tag":"Enum"}

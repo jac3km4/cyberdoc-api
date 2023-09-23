@@ -1,0 +1,1 @@
+{"members":[{"name":"Run","tag":"EnumValue","value":0},{"name":"Sprint","tag":"EnumValue","value":1},{"name":"Strafe","tag":"EnumValue","value":2},{"name":"Walk","tag":"EnumValue","value":3},{"name":"Count","tag":"EnumValue","value":4},{"name":"Invalid","tag":"EnumValue","value":5}],"name":"gamedataMovementType","tag":"Enum"}

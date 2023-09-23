@@ -1,1 +1,1 @@
-{"members":[{"name":"Flat","tag":"EnumValue","value":0},{"name":"TargetHealth","tag":"EnumValue","value":1},{"name":"Invalid","tag":"EnumValue","value":-1}],"name":"DamageEffectDisplayType","tag":"Enum"}
+{"members":[{"name":"PLAYER","tag":"EnumValue","value":0},{"name":"FLATHEAD","tag":"EnumValue","value":1},{"name":"TOOLBOX","tag":"EnumValue","value":2}],"name":"operationsMode","tag":"Enum"}

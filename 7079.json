@@ -1,0 +1,1 @@
+{"members":[{"name":"BreakLoop","tag":"EnumValue","value":0},{"name":"Kill","tag":"EnumValue","value":1},{"name":"Start","tag":"EnumValue","value":2},{"name":"Count","tag":"EnumValue","value":3},{"name":"Invalid","tag":"EnumValue","value":4}],"name":"gamedataFxActionType","tag":"Enum"}

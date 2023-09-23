@@ -1,0 +1,1 @@
+{"members":[{"name":"None","tag":"EnumValue","value":-1},{"name":"Twitch","tag":"EnumValue","value":0},{"name":"Impact","tag":"EnumValue","value":1},{"name":"Stagger","tag":"EnumValue","value":2},{"name":"Knockdown","tag":"EnumValue","value":3}],"name":"EAILastHitReactionPlayed","tag":"Enum"}

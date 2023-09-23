@@ -1,0 +1,1 @@
+{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"AddToBlacklistEvent","tag":"EnumValue","value":1},{"name":"RemoveFromBlacklistEvent","tag":"EnumValue","value":2},{"name":"SecurityAreaCrossingPerimeter","tag":"EnumValue","value":3}],"name":"ESenseLogSource","tag":"Enum"}

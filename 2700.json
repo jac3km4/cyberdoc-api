@@ -1,0 +1,1 @@
+{"members":[{"name":"Invalid","tag":"EnumValue","value":0},{"name":"Hacking","tag":"EnumValue","value":1},{"name":"Engineering","tag":"EnumValue","value":2},{"name":"Athletics","tag":"EnumValue","value":3}],"name":"EDeviceChallengeSkill","tag":"Enum"}

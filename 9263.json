@@ -1,0 +1,1 @@
+{"members":[{"name":"Device","tag":"EnumValue","value":0},{"name":"Dialog","tag":"EnumValue","value":1},{"name":"Loot","tag":"EnumValue","value":2},{"name":"Invalid","tag":"EnumValue","value":3}],"name":"EVisualizerType","tag":"Enum"}

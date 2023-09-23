@@ -1,0 +1,1 @@
+{"members":[{"name":"FromInputConfig","tag":"EnumValue","value":0},{"name":"Press","tag":"EnumValue","value":1},{"name":"Hold","tag":"EnumValue","value":2}],"name":"inkInputHintHoldIndicationType","tag":"Enum"}

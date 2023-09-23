@@ -1,0 +1,1 @@
+{"members":[{"name":"Ready","tag":"EnumValue","value":0},{"name":"Locked","tag":"EnumValue","value":1},{"name":"Recompilation","tag":"EnumValue","value":2},{"name":"OutOfMemory","tag":"EnumValue","value":3},{"name":"IsQuickHacked","tag":"EnumValue","value":4},{"name":"Invalid","tag":"EnumValue","value":5}],"name":"EActionInactivityReson","tag":"Enum"}

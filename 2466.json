@@ -1,0 +1,1 @@
+{"members":[{"name":"Undefined","tag":"EnumValue","value":0},{"name":"Equip","tag":"EnumValue","value":1},{"name":"Unequip","tag":"EnumValue","value":2}],"name":"EquipmentManipulationRequestType","tag":"Enum"}

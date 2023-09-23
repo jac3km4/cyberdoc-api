@@ -1,0 +1,1 @@
+{"members":[{"name":"ForceBrakes","tag":"EnumValue","value":0},{"name":"Explode","tag":"EnumValue","value":1},{"name":"Accelerate","tag":"EnumValue","value":2},{"name":"NONE","tag":"EnumValue","value":3}],"name":"VehicleNetrunnerQuickhackType","tag":"Enum"}

@@ -1,0 +1,1 @@
+{"members":[{"name":"Available","tag":"EnumValue","value":0},{"name":"NotAvailable","tag":"EnumValue","value":1},{"name":"Busy","tag":"EnumValue","value":2},{"name":"Minimized","tag":"EnumValue","value":3}],"name":"questPhoneStatus","tag":"Enum"}

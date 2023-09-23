@@ -1,0 +1,1 @@
+{"bases":[{"base":null,"index":20925,"name":"AttachmentSlotsListener"},{"base":null,"index":11333,"name":"IScriptable"}],"fields":[],"isAbstract":false,"isFinal":false,"isNative":true,"isStruct":false,"methods":[],"name":"AttachmentSlotsScriptListener","tag":"Class","visibility":"public"}

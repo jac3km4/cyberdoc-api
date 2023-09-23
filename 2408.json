@@ -1,1 +1,1 @@
-{"members":[{"name":"Short","tag":"EnumValue","value":0},{"name":"Normal","tag":"EnumValue","value":1},{"name":"Long","tag":"EnumValue","value":2},{"name":"None","tag":"EnumValue","value":3}],"name":"animLookAtLimitDistanceType","tag":"Enum"}
+{"members":[{"name":"Preview","tag":"EnumValue","value":0}],"name":"gameEItemIDFlag","tag":"Enum"}

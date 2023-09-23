@@ -1,0 +1,1 @@
+{"members":[{"name":"DONT_CHANGE","tag":"EnumValue","value":0},{"name":"FRIENDLY","tag":"EnumValue","value":1},{"name":"NEUTRAL","tag":"EnumValue","value":2},{"name":"HOSTILE","tag":"EnumValue","value":3}],"name":"AttitudeChange","tag":"Enum"}

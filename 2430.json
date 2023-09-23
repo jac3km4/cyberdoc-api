@@ -1,1 +1,1 @@
-{"members":[{"name":"Default","tag":"EnumValue","value":0},{"name":"Horizontal","tag":"EnumValue","value":1}],"name":"animLookAtTwoHandedMode","tag":"Enum"}
+{"members":[{"name":"Locked","tag":"EnumValue","value":0}],"name":"gameinteractionsELootVisualiserControlOperation","tag":"Enum"}

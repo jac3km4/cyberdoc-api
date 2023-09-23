@@ -1,0 +1,1 @@
+{"members":[{"name":"Head","tag":"EnumValue","value":0},{"name":"Face","tag":"EnumValue","value":1},{"name":"InnerChest","tag":"EnumValue","value":2},{"name":"OuterChest","tag":"EnumValue","value":3},{"name":"Legs","tag":"EnumValue","value":4},{"name":"Feet","tag":"EnumValue","value":5}],"name":"TransmogSlots","tag":"Enum"}
